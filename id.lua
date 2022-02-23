@@ -1,5 +1,5 @@
 return {
-	["3334302112"] = {"Administrator", "Chr1s"}, -- 这是Adm[管理员用户的标准
+	["3351205854"] = {"Administrator", "Chr1s"}, -- 这是Adm[管理员用户的标准
     ["3343680696"] = {"Administrator", "Aslier宝宝"}, -- 这是Adm[管理员用户的标准 蒋一楠
     ["3288261902"] = {"Administrator", "誉仙宝宝"}, -- 这是Adm[管理员用户的标准 鱼线
     ["3290365564"] = {"Administrator", "4399宝宝"}, -- 这是Adm[管理员用户的标准 4399
