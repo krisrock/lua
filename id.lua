@@ -51,7 +51,7 @@ return {
     ["3346589786"] = {"https://pastebin.com/raw/fYL43kKi", "https://gitee.com/chr1s1337/QQ1209761807/raw/master/Chinese_Locations"},  --QQ1993249179
     ["3360932634"] = {"https://pastebin.com/raw/fYL43kKi", "https://gitee.com/chr1s1337/QQ1209761807/raw/master/Chinese_Locations"},  --QQ2414801419
     ["3306897122"] = {"https://pastebin.com/raw/fYL43kKi", "https://gitee.com/chr1s1337/QQ1209761807/raw/master/Chinese_Locations"},  --QQ2837418143
-    ["3287341510"] = {"https://pastebin.com/raw/fYL43kKi", "https://gitee.com/chr1s1337/QQ1209761807/raw/master/Chinese_Locations"},  --浅色
+    ["3287341510"] = {"https://raw.githubusercontent.com/krisrock/lua/main/Chinese_Locations.lua", "https://raw.githubusercontent.com/krisrock/lua/main/Chinese_Locations.lua"},  --浅色
 
 
 }
