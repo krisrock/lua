@@ -1,0 +1,8576 @@
+ {
+    "name":"[emokami] unpopular Maps",
+    "description": "Write:QQ932084933(emokami)",
+    "update_timestamp": 1639061842,
+    "locations": {
+"de_ancient":[
+  {
+    "name": ["Unnamed", "bbaozhuziyi"],
+    "weapon": "weapon_molotov",
+    "position": [586.20532226563, -859.97009277344, 111.50463867188],
+    "viewangles": [-2.4200010299683, 78.897514343262],
+    "grenade": {
+      "strength": 0.5,
+      "recovery_yaw": -90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "bbaozhuziyi"],
+    "weapon": "weapon_molotov",
+    "position": [1134.9555664063, 916.02825927734, 108.76512145996],
+    "viewangles": [-0.10997979342937, -107.23654174805],
+    "grenade": {
+      "strength": 0.5,
+      "recovery_yaw": -90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "ABAODIANYI"],
+    "weapon": "weapon_molotov",
+    "position": [-2069.1989746094, 241.25350952148, 88.031242370605],
+    "viewangles": [-13.35399055481, 49.227550506592]
+  },
+  {
+    "name": ["Unnamed", "Abaoqiandianxiangziyi"],
+    "weapon": "weapon_molotov",
+    "position": [-2015.4449462891, 87.636276245117, 76.03125],
+    "viewangles": [-1.850161075592, 78.352821350098],
+    "grenade": {
+      "recovery_jump": true,
+      "recovery_yaw": -90
+    }
+  },
+  {
+    "name": ["Unnamed", "Abaoqiandianxiangziyi"],
+    "weapon": "weapon_molotov",
+    "position": [-2136.4626464844, -471.09106445313, 75.99796295166],
+    "viewangles": [-4.3141212463379, 79.686866760254],
+    "grenade": {
+      "run": 20,
+      "recovery_yaw": -90,
+      "recovery_jump": true
+    }
+  },
+  {
+    "name": ["Main Hall", "Abaoqiandianxiangziyi"],
+    "weapon": "weapon_molotov",
+    "position": [-2020.0787353516, 48.016536712646, 76.03125],
+    "viewangles": [-4.5673079490662, 79.099380493164],
+    "grenade": {
+      "run": 42,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["Outside Main Hall", "ABAODIANXBOXYI"],
+    "weapon": "weapon_molotov",
+    "position": [-2055.9907226563, 350.33322143555, 88.03125],
+    "viewangles": [-9.3322906494141, 26.461437225342],
+    "grenade": {
+      "run": 12,
+      "delay": 2,
+      "run_speed": true
+    }
+  },
+  {
+    "name": ["Main Hall Exit", "Abaohuifangyi"],
+    "weapon": "weapon_molotov",
+    "position": [-2014.9525146484, 312.26953125, 88.03125],
+    "viewangles": [-12.112988471985, 34.316932678223],
+    "grenade": {
+      "run": 8
+    }
+  },
+  {
+    "name": ["Unnamed", "lianjieyi"],
+    "weapon": "weapon_molotov",
+    "position": [-969.83984375, -812.00457763672, 32.03125],
+    "viewangles": [-13.589738845825, 27.16827583313],
+    "grenade": {
+      "run": 26,
+      "recovery_jump": true,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "zhongluaocaoyi"],
+    "weapon": "weapon_molotov",
+    "position": [-1048.2687988281, -843.97900390625, 34.182235717773],
+    "viewangles": [-22.29204750061, 32.706516265869]
+  },
+  {
+    "name": ["Unnamed", "zhonglurukouyi"],
+    "weapon": "weapon_molotov",
+    "position": [-864.70812988281, -843.97381591797, 35.690635681152],
+    "viewangles": [-31.108386993408, 72.245513916016]
+  },
+  {
+    "name": ["Ruins", "BLOUTIYI"],
+    "weapon": "weapon_molotov",
+    "position": [1155.6094970703, -1403.2506103516, 57.911239624023],
+    "viewangles": [-21.637447357178, 86.441139221191]
+  },
+  {
+    "name": ["Ramp", "bbaosidianyi"],
+    "weapon": "weapon_molotov",
+    "position": [1299.9908447266, -335.00247192383, 88.705467224121],
+    "viewangles": [-16.016523361206, 142.68898010254],
+    "grenade": {
+      "run": 6
+    }
+  },
+  {
+    "name": ["Ramp", "jianzhumenyi"],
+    "weapon": "weapon_molotov",
+    "position": [1383.9964599609, -574.44763183594, 34.171295166016],
+    "viewangles": [-29.992097854614, 137.13055419922]
+  },
+  {
+    "name": ["Ramp", "Bbaozhuziyi"],
+    "weapon": "weapon_molotov",
+    "position": [1332.5804443359, -508.28125, 36.273826599121],
+    "viewangles": [-15.554641723633, 119.99794006348],
+    "grenade": {
+      "run": 17
+    }
+  }
+],
+"cs_assault":[
+  {
+    "name": ["Red Car", "hcck"],
+    "weapon": "weapon_molotov",
+    "position": [4856.6870117188, 4586.8989257813, -865.96246337891],
+    "viewangles": [-8.2426996231079, -49.91752243042],
+    "grenade": {
+      "fov": 5.12,
+      "run": 8
+    }
+  },
+  {
+    "name": ["car", "tkck"],
+    "description": "safe",
+    "weapon": "weapon_molotov",
+    "position": [5036.6840820313, 4644.1987304688, -840.00018310547],
+    "viewangles": [-22.7882328, -20.8311253],
+    "grenade": {
+      "run": 16,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["Unnamed", "hcck"],
+    "weapon": "weapon_molotov",
+    "position": [6247.1689453125, 4428.5126953125, -870.64611816406],
+    "viewangles": [-21.192554473877, -149.66262817383],
+    "grenade": {
+      "fov": 5.12
+    }
+  },
+  {
+    "name": ["Unnamed", "ytck"],
+    "weapon": "weapon_molotov",
+    "position": [6247.1689453125, 4428.5126953125, -870.64611816406],
+    "viewangles": [-32.102272033691, -118.99373947144],
+    "grenade": {
+      "fov": 5.12
+    }
+  },
+  {
+    "name": ["Unnamed", "tkck"],
+    "weapon": "weapon_molotov",
+    "position": [6247.1689453125, 4428.5126953125, -870.64611816406],
+    "viewangles": [-52.66813659668, -131.89321899414],
+    "grenade": {
+      "fov": 5.12
+    }
+  },
+  {
+    "name": ["Unnamed", "tkck"],
+    "weapon": "weapon_molotov",
+    "position": [5031.283203125, 4555.205078125, -607.96875],
+    "viewangles": [-3.3591012954712, -16.535545349121],
+    "grenade": {
+      "fov": 5.12,
+      "run": 7
+    }
+  },
+  {
+    "name": ["car2", "tkck"],
+    "weapon": "weapon_molotov",
+    "position": [4894.1918945313, 4566.5229492188, -606.96875],
+    "viewangles": [-8.365883, -29.6566372]
+  },
+  {
+    "name": ["wheels", "ltck"],
+    "weapon": "weapon_molotov",
+    "position": [4896.8408203125, 4498.3706054688, -606.92358398438],
+    "viewangles": [-9.984527, -14.2949562]
+  },
+  {
+    "name": ["car", "tkck"],
+    "weapon": "weapon_hegrenade",
+    "position": [5028.0229492188, 4440.9384765625, -607.96875],
+    "viewangles": [-2.1230280399323, -39.254619598389],
+    "grenade": {
+      "run": 3
+    }
+  },
+  {
+    "name": ["car4", "tkck"],
+    "weapon": "weapon_molotov",
+    "position": [5028.03125, 4449.1005859375, -606.96875],
+    "viewangles": [-2.959982, -43.0942955]
+  },
+  {
+    "name": ["barrels5", "ytck"],
+    "weapon": "weapon_molotov",
+    "position": [5028.03125, 4649.0180664063, -606.96875],
+    "viewangles": [-16.6097164, -49.9198837]
+  },
+  {
+    "name": ["barrels2", "ytck"],
+    "weapon": "weapon_molotov",
+    "position": [5018.283203125, 4495.9526367188, -607.92358398438],
+    "viewangles": [-7.3151273727417, -53.057250976563],
+    "grenade": {
+      "run": 1
+    }
+  },
+  {
+    "name": ["car", "tkck"],
+    "weapon": "weapon_molotov",
+    "position": [5036.02734375, 4690.833984375, -830.96875],
+    "viewangles": [-20.9551334, -28.7237339],
+    "grenade": {
+      "run": 22
+    }
+  },
+  {
+    "name": ["barrels", "ytck"],
+    "weapon": "weapon_molotov",
+    "position": [5036.802734375, 4759.564453125, -831.96875],
+    "viewangles": [-5.9772686958313, -53.019989013672],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["wheels2", "ltck"],
+    "weapon": "weapon_molotov",
+    "position": [5037.9375, 4631.5087890625, -843.20446777344],
+    "viewangles": [-19.9100952, -17.0695686],
+    "grenade": {
+      "run": 12
+    }
+  },
+  {
+    "name": ["car2", "tkck"],
+    "weapon": "weapon_hegrenade",
+    "position": [5042.7768554688, 4356.4990234375, -862.96875],
+    "viewangles": [-25.3001518, -37.5547],
+    "grenade": {
+      "run": 3
+    }
+  },
+  {
+    "name": ["barrels3", "ytck"],
+    "weapon": "weapon_molotov",
+    "position": [5801.7763671875, 4481.7666015625, -872.96875],
+    "viewangles": [-31.944973, -90.06384]
+  },
+  {
+    "name": ["car3", "tkck"],
+    "weapon": "weapon_hegrenade",
+    "position": [5894.5209960938, 4422.2026367188, -874.79760742188],
+    "viewangles": [-36.553142547607, -86.629837036133],
+    "grenade": {
+      "run": 1,
+      "jump": true
+    },
+    "duck": true
+  },
+  {
+    "name": ["car3", "tkck"],
+    "weapon": "weapon_molotov",
+    "position": [5862.8071289063, 4365.2265625, -872.96875],
+    "viewangles": [-51.01494, -86.11953]
+  },
+  {
+    "name": ["Unnamed", "sdckus"],
+    "weapon": "weapon_molotov",
+    "position": [5625.1040039063, 5914.5805664063, -863.96875],
+    "viewangles": [4.2239990234375, 121.29202270508],
+    "grenade": {
+      "run": 39,
+      "recovery_jump": true,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "tkck"],
+    "description": "SAFE",
+    "weapon": "weapon_molotov",
+    "position": [5049.2646484375, 4616.4536132813, -848.00018310547],
+    "viewangles": [1.2099734544754, -35.189479827881],
+    "grenade": {
+      "run": 14,
+      "recovery_yaw": -156,
+      "run_yaw": 55,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "tkck"],
+    "weapon": "weapon_molotov",
+    "position": [4930.1157226563, 4494.8466796875, -607.92358398438],
+    "viewangles": [-10.480278015137, -19.955263137817],
+    "grenade": {
+      "run": 5,
+      "run_speed": true,
+      "run_yaw": 180
+    }
+  },
+  {
+    "name": ["Unnamed", "tkckus"],
+    "description": "MAX DMG",
+    "weapon": "weapon_hegrenade",
+    "position": [4940.1479492188, 4518.88671875, -607.92358398438],
+    "viewangles": [16.5246925354, -25.47102355957],
+    "grenade": {
+      "run": 1,
+      "run_speed": true,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "LTCKus"],
+    "description": "MAX DMG",
+    "weapon": "weapon_hegrenade",
+    "position": [4940.2353515625, 4518.83984375, -607.92358398438],
+    "viewangles": [14.599697113037, -15.326168060303],
+    "grenade": {
+      "run": 1,
+      "run_speed": true,
+      "delay": 2,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "ltckus"],
+    "weapon": "weapon_hegrenade",
+    "position": [5050.8579101563, 4616.14453125, -848.07720947266],
+    "viewangles": [-9.3254241943359, -37.926120758057],
+    "grenade": {
+      "run": 12,
+      "recovery_jump": true,
+      "recovery_yaw": -171,
+      "run_yaw": 59
+    }
+  },
+  {
+    "name": ["Unnamed", "tkckus"],
+    "weapon": "weapon_hegrenade",
+    "position": [5128.857421875, 4596.0268554688, -853.150390625],
+    "viewangles": [-18.403022766113, -64.218154907227],
+    "grenade": {
+      "run": 17,
+      "recovery_jump": true,
+      "recovery_yaw": -172,
+      "run_yaw": 90
+    }
+  },
+  {
+    "name": ["Unnamed", "tkck"],
+    "weapon": "weapon_hegrenade",
+    "position": [6339.1044921875, 4385.8564453125, -869.68725585938],
+    "viewangles": [-21.813213348389, -138.02770996094],
+    "grenade": {
+      "run": 2,
+      "run_yaw": 180
+    }
+  },
+  {
+    "name": ["Street", "gdck"],
+    "description": "Safe",
+    "weapon": "weapon_molotov",
+    "position": [6295.33203125, 5336.3295898438, -871.96875],
+    "viewangles": [-2.6576404571533, 36.830375671387],
+    "grenade": {
+      "run": 37,
+      "recovery_jump": true,
+      "recovery_yaw": 90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["CT Start", "gdck"],
+    "description": "SAfe",
+    "weapon": "weapon_molotov",
+    "position": [6310.9814453125, 6201.205078125, -863.96875],
+    "viewangles": [-2.4112281799316, -34.310348510742],
+    "grenade": {
+      "run": 23,
+      "recovery_jump": true,
+      "recovery_yaw": -90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Front Entrance", "tizick"],
+    "weapon": "weapon_molotov",
+    "position": [6622.4096679688, 4863.0268554688, -863.96875],
+    "viewangles": [-57.129581451416, 149.87362670898]
+  },
+  {
+    "name": ["Front Entrance", "xpck"],
+    "description": "UNSAFE",
+    "weapon": "weapon_molotov",
+    "position": [6401.7060546875, 4651.8349609375, -868.01574707031],
+    "viewangles": [-1.4784245491028, 174.47822570801],
+    "grenade": {
+      "run": 9,
+      "recovery_jump": true,
+      "recovery_yaw": -90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "sdckus"],
+    "weapon": "weapon_hegrenade",
+    "position": [5716.2622070313, 6030.9750976563, -863.96875],
+    "viewangles": [-11.541200637817, 160.38177490234],
+    "grenade": {
+      "run": 1,
+      "recovery_jump": true,
+      "recovery_yaw": 90
+    }
+  },
+  {
+    "name": ["Unnamed", "tkck"],
+    "weapon": "weapon_molotov",
+    "position": [6339.0556640625, 4385.8076171875, -869.70190429688],
+    "viewangles": [-43.318199157715, -137.80731201172],
+    "grenade": {
+      "strength": 0.5,
+      "run": 4,
+      "run_speed": true
+    }
+  },
+  {
+    "name": ["Unnamed", "ytck"],
+    "weapon": "weapon_hegrenade",
+    "position": [6247.0893554688, 4428.3588867188, -870.63671875],
+    "viewangles": [-29.253311157227, -126.0857925415]
+  },
+  {
+    "name": ["Unnamed", "gdck"],
+    "weapon": "weapon_molotov",
+    "position": [6574.9692382813, 4352.0209960938, -863.96875],
+    "viewangles": [-5.9150242805481, 93.22737121582],
+    "grenade": {
+      "run": 11,
+      "delay": 6,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Placa", "3FCK"],
+    "weapon": "weapon_knife",
+    "position": [6698.1166992188, 7231.99609375, -583.96875],
+    "viewangles": [25.09813117981, -1.9524146318436],
+    "movement": {
+      "frames": [
+        [
+          0,
+          0,
+          "F",
+          225
+        ],
+        [
+          -0.3036003112793,
+          -0.25300014019012
+        ],
+        [
+          -0.35420036315918,
+          -0.30359983444214
+        ],
+        [
+          -0.40480041503906,
+          -0.25300002098083
+        ],
+        [
+          -0.40480041503906,
+          -0.15180015563965
+        ],
+        [
+          -0.60720062255859,
+          -0.25300025939941
+        ],
+        [
+          -0.3036003112793,
+          -0.050600051879883
+        ],
+        [
+          -0.50600051879883,
+          -0.10120010375977
+        ],
+        [
+          -0.40480041503906,
+          -0.10120010375977
+        ],
+        [
+          -0.3036003112793
+        ],
+        [
+          -0.20240020751953,
+          -0.050600051879883
+        ],
+        [
+          -0.20240020751953,
+          -0.050600051879883
+        ],
+        [
+          -0.25300025939941
+        ],
+        [
+          -0.20240020751953
+        ],
+        [
+          -0.25300025939941
+        ],
+        [
+          -0.15180015563965,
+          0.050600051879883
+        ],
+        [
+          -0.15180015563965,
+          0.10120010375977
+        ],
+        [
+          -0.10120010375977,
+          0.10120010375977
+        ],
+        [
+          -0.10120010375977,
+          0.050600051879883
+        ],
+        [
+          -0.10120010375977,
+          0.10120010375977
+        ],
+        2,
+        [
+          -0.050600051879883,
+          0.050600051879883
+        ],
+        [
+          -0.050600051879883,
+          0.050600051879883
+        ],
+        [
+          0,
+          0.050600051879883
+        ],
+        [
+          -0.050600051879883,
+          0.10120010375977
+        ],
+        [
+          -0.050600051879883,
+          0.050600051879883
+        ],
+        [
+          -0.050600051879883,
+          0.10120010375977
+        ],
+        [
+          -0.050600051879883,
+          0.10120010375977
+        ],
+        [
+          0,
+          0.10120010375977
+        ],
+        [
+          0,
+          0.10120010375977
+        ],
+        [
+          0,
+          0.10120010375977
+        ],
+        [
+          0,
+          0.050600051879883
+        ],
+        2,
+        [
+          0,
+          0,
+          "J"
+        ],
+        [
+          0,
+          0,
+          "jR",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "rL",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "DRl",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "rL",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "Rl",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "rL",
+          450,
+          0
+        ],
+        [
+          0.050600051879883,
+          0,
+          "Rl",
+          450,
+          0
+        ],
+        [
+          0.050600051879883,
+          0.050600051879883,
+          "rL",
+          450,
+          0
+        ],
+        [
+          0,
+          0.050600051879883,
+          "Rl",
+          450,
+          0
+        ],
+        [
+          0.050600051879883,
+          -0.050600051879883,
+          "rL",
+          450,
+          0
+        ],
+        [
+          0.050600051879883,
+          0,
+          "Rl",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "rL",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "Rl",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "rL",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "Rl",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "rL",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "Rl",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "rL",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "Rl",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "rL",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "Rl",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "rL",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "Rl",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "rL",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "Rl",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "rL",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "Rl",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "JrL",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "jRl",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "rL",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "Rl",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "rL",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "Rl",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "rL",
+          450,
+          0
+        ],
+        [
+          0.10120010375977,
+          0.10120010375977,
+          "Rl",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "rL",
+          450,
+          0
+        ],
+        [
+          0.050600051879883,
+          0.15180015563965,
+          "Rl",
+          450,
+          0
+        ],
+        [
+          0,
+          0.050600051879883,
+          "rL",
+          450,
+          0
+        ],
+        [
+          0,
+          0.10120010375977,
+          "Rl",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "rL",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "Rl",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "rL",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "Rl",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "rL",
+          450,
+          0
+        ],
+        [
+          0.050600051879883,
+          0,
+          "Rl",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "rL",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "Rl",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "drL",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "Rl",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "rL",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "Rl",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "rL",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "Rl",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "rL",
+          450,
+          0
+        ],
+        [
+          -0.050600051879883,
+          -0.050600051879883,
+          "Rl",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "rL",
+          450,
+          0
+        ],
+        [
+          -0.050600051879883,
+          0,
+          "Rl",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "rL",
+          450,
+          0
+        ],
+        [
+          -0.050600051879883,
+          0,
+          "Rl",
+          450,
+          0
+        ],
+        [
+          0,
+          -0.050600051879883,
+          "rL",
+          450,
+          0
+        ],
+        [
+          0,
+          -0.050600051879883,
+          "Rl",
+          450,
+          0
+        ],
+        [
+          0,
+          -0.050600051879883,
+          "rL",
+          450,
+          0
+        ],
+        [
+          0,
+          -0.10120010375977,
+          "Rl",
+          450,
+          0
+        ],
+        [
+          0,
+          -0.050600051879883,
+          "rL",
+          450,
+          0
+        ],
+        [
+          0,
+          -0.050600051879883,
+          "Rl",
+          450,
+          0
+        ],
+        [
+          0,
+          -0.050600051879883,
+          "rL",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "Rl",
+          450,
+          0
+        ],
+        [
+          -0.050600051879883,
+          0,
+          "rL",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "Rl",
+          450,
+          0
+        ],
+        [
+          0,
+          0,
+          "rL",
+          450,
+          0
+        ],
+        [
+          0,
+          -0.050600051879883,
+          "Rl",
+          450,
+          0
+        ],
+        [
+          0,
+          -0.10120010375977,
+          "rL",
+          450,
+          0
+        ],
+        [
+          0.050600051879883,
+          -0.050600051879883,
+          "Rl",
+          450,
+          0
+        ],
+        [
+          0,
+          -0.050600051879883,
+          "r"
+        ],
+        1,
+        [
+          0.050600051879883,
+          -0.050600051879883
+        ],
+        1,
+        [
+          0.050600051879883,
+          -0.050600051879883
+        ],
+        [
+          0.050600051879883,
+          -0.050600051879883
+        ],
+        [
+          0.050600051879883,
+          -0.050600051879883
+        ],
+        18,
+        [
+          0,
+          0,
+          "D"
+        ],
+        7,
+        [
+          0,
+          0,
+          "BfL",
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          "",
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          "",
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          "",
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          "",
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          "",
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          "",
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          "",
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          "bl"
+        ],
+        18
+      ]
+    }
+  },
+  {
+    "name": ["Wood boxes", "tkck"],
+    "weapon": "weapon_molotov",
+    "position": [5066.787109375, 4664.0551757813, -835.96875],
+    "viewangles": [-20.780004501343, -28.330696105957],
+    "grenade": {
+      "run": 17,
+      "recovery_jump": true,
+      "recovery_yaw": -90
+    }
+  },
+  {
+    "name": ["Wood box", "tkck"],
+    "weapon": "weapon_hegrenade",
+    "position": [5070.9067382813, 4656.9580078125, -837.78106689453],
+    "viewangles": [-15.095916748047, -28.223163604736],
+    "grenade": {
+      "run": 17,
+      "recovery_jump": true,
+      "recovery_yaw": -90
+    }
+  },
+  {
+    "name": ["Wood box", "tkck"],
+    "weapon": "weapon_hegrenade",
+    "position": [5070.958984375, 4656.9516601563, -837.78192138672],
+    "viewangles": [3.8285126686096, -28.039604187012],
+    "grenade": {
+      "run": 25,
+      "recovery_jump": true,
+      "recovery_yaw": -90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Wood box", "tkck"],
+    "weapon": "weapon_molotov",
+    "position": [5071.0249023438, 4656.9716796875, -837.77819824219],
+    "viewangles": [3.8791103363037, -27.180328369141],
+    "grenade": {
+      "run": 25,
+      "recovery_jump": true,
+      "recovery_yaw": -90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["here", "tkck"],
+    "weapon": "weapon_molotov",
+    "position": [5942.6528320313, 4398.2724609375, -875.96875],
+    "viewangles": [-47.355792999268, -98.21167755127],
+    "grenade": {
+      "strength": 0.5
+    },
+    "duck": true
+  },
+  {
+    "name": ["here", "ytck"],
+    "weapon": "weapon_molotov",
+    "position": [6175.1684570313, 4416.46875, -871.92028808594],
+    "viewangles": [-31.646883010864, -115.06634521484]
+  },
+  {
+    "name": ["here", "tkck"],
+    "weapon": "weapon_molotov",
+    "position": [5625.8232421875, 4381.2021484375, -873.0341796875],
+    "viewangles": [-23.214233398438, -62.408496856689],
+    "duck": true
+  },
+  {
+    "name": ["here", "ytck"],
+    "weapon": "weapon_hegrenade",
+    "position": [6148.841796875, 4448.78125, -872.88824462891],
+    "viewangles": [-29.640165328979, -115.860496521]
+  },
+  {
+    "name": ["here", "tkck"],
+    "weapon": "weapon_hegrenade",
+    "position": [6125.0073242188, 4470.7553710938, -873.29431152344],
+    "viewangles": [-20.38032913208, -106.19560241699]
+  },
+  {
+    "name": ["Wood box", "ytck"],
+    "weapon": "weapon_molotov",
+    "position": [5036.173828125, 4702.6357421875, -831.96875],
+    "viewangles": [-1.0511683225632, -33.841979980469],
+    "grenade": {
+      "run": 40,
+      "recovery_jump": true,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Wood boxes", "ytck"],
+    "weapon": "weapon_molotov",
+    "position": [5025.3627929688, 4419.1396484375, -862.96875],
+    "viewangles": [-28.071603775024, -54.53694152832],
+    "grenade": {
+      "run": 2
+    }
+  },
+  {
+    "name": ["Unnamed", "2Fmenck"],
+    "weapon": "weapon_molotov",
+    "position": [5047.8559570313, 5035.0971679688, -871.96875],
+    "viewangles": [-50.491893768311, -133.12084960938],
+    "grenade": {
+      "run": 1
+    }
+  },
+  {
+    "name": ["Unnamed", "sdck"],
+    "weapon": "weapon_molotov",
+    "position": [5540.0463867188, 6027.5854492188, -863.96875],
+    "viewangles": [-1.332810997963, 154.82501220703],
+    "grenade": {
+      "run": 10
+    }
+  },
+  {
+    "name": ["Front Entrace", "xpck"],
+    "weapon": "weapon_molotov",
+    "position": [6496.0966796875, 4698.99609375, -863.96875],
+    "viewangles": [-9.6800146102905, 153.76370239258],
+    "grenade": {
+      "run": 14,
+      "run_yaw": 90
+    }
+  },
+  {
+    "name": ["Unnamed", "ytck"],
+    "description": "safe",
+    "weapon": "weapon_molotov",
+    "position": [4896.3725585938, 4639.4765625, -678.86077880859],
+    "viewangles": [-18.360195159912, -51.647518157959],
+    "grenade": {
+      "run": 9,
+      "run_speed": true
+    }
+  },
+  {
+    "name": ["Unnamed", "ljtck"],
+    "description": "safe",
+    "weapon": "weapon_molotov",
+    "position": [6338.7016601563, 6755.4018554688, -863.96875],
+    "viewangles": [-1.5398643016815, 22.072006225586],
+    "grenade": {
+      "run": 15,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "ljtck"],
+    "description": "semi-safe",
+    "weapon": "weapon_molotov",
+    "position": [6385.51171875, 6651.6567382813, -863.96875],
+    "viewangles": [-15.399749755859, 59.802474975586],
+    "grenade": {
+      "run": 6,
+      "run_speed": true
+    }
+  },
+  {
+    "name": ["Unnamed", "ljtck"],
+    "weapon": "weapon_hegrenade",
+    "position": [6419.44921875, 6655.3090820313, -863.96875],
+    "viewangles": [6.0502524375916, 69.482490539551]
+  },
+  {
+    "name": ["Unnamed", "ljtck"],
+    "description": "fast",
+    "weapon": "weapon_molotov",
+    "position": [6414.578125, 6652.5595703125, -863.96875],
+    "viewangles": [6.1602516174316, 68.05233001709]
+  },
+  {
+    "name": ["Unnamed", "ljtck"],
+    "weapon": "weapon_molotov",
+    "position": [6249.0546875, 6263.9418945313, -863.96875],
+    "viewangles": [-4.0697503089905, 67.39315032959]
+  },
+  {
+    "name": ["Unnamed", "sdckus"],
+    "weapon": "weapon_molotov",
+    "position": [5724.0361328125, 6022.8227539063, -863.96875],
+    "viewangles": [-6.2697267532349, 159.90649414063],
+    "grenade": {
+      "run": 7,
+      "run_speed": true
+    }
+  },
+  {
+    "name": ["Unnamed", "sdckus"],
+    "description": "unsafe",
+    "weapon": "weapon_hegrenade",
+    "position": [5687.548828125, 6036.6518554688, -863.96875],
+    "viewangles": [-5.719735622406, 159.93852233887],
+    "grenade": {
+      "recovery_jump": true,
+      "recovery_yaw": 90
+    }
+  },
+  {
+    "name": ["Unnamed", "sdck"],
+    "weapon": "weapon_hegrenade",
+    "position": [5540.0463867188, 6027.5854492188, -863.96875],
+    "viewangles": [-1.332810997963, 154.82501220703],
+    "grenade": {
+      "run": 10
+    }
+  }
+],
+"de_basalt":[
+  {
+    "name": ["T", "jmxzbhd"],
+    "weapon": "weapon_molotov",
+    "position": [471.6799621582, 1855.5330810547, 96.03125],
+    "viewangles": [-26.115051269531, -34.949596405029]
+  },
+  {
+    "name": ["T", "CTHFBHD"],
+    "weapon": "weapon_molotov",
+    "position": [770.20452880859, 2034.9694824219, 96.03125],
+    "viewangles": [-17.930213928223, -67.125144958496],
+    "grenade": {
+      "run": 11
+    }
+  },
+  {
+    "name": ["Droproom", "cthfbhd"],
+    "weapon": "weapon_molotov",
+    "position": [568.19757080078, 995.04156494141, 120.03125],
+    "viewangles": [-5.5000700950623, -6.2406215667725],
+    "grenade": {
+      "run": 9
+    }
+  },
+  {
+    "name": ["FAKEDUCK", "zlbhd"],
+    "description": "ALL",
+    "weapon": "weapon_molotov",
+    "position": [231.43379211426, 503.05020141602, 56.03125],
+    "viewangles": [-23.980081558228, -32.31063079834]
+  },
+  {
+    "name": ["Middle", "CWFDBHD"],
+    "description": "FULLY",
+    "weapon": "weapon_molotov",
+    "position": [16.025346755981, -718.00805664063, 65.372947692871],
+    "viewangles": [-12.4299659729, -54.309722900391],
+    "grenade": {
+      "run": 5
+    }
+  },
+  {
+    "name": ["CT", "cwfdbhd"],
+    "weapon": "weapon_hegrenade",
+    "position": [690.58843994141, -580.32800292969, 184.03125],
+    "viewangles": [18.369995117188, -104.79936981201],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["CT", "cwfdbhd"],
+    "weapon": "weapon_molotov",
+    "position": [740.5791015625, -571.61126708984, 184.03123474121],
+    "viewangles": [-2.9149210453033, -138.98385620117],
+    "grenade": {
+      "run": 12
+    }
+  },
+  {
+    "name": ["CT", "AntiRushBHD"],
+    "weapon": "weapon_hegrenade",
+    "position": [1319.0310058594, 884.73254394531, 144.03125],
+    "viewangles": [-11.439989089966, 133.94000244141],
+    "grenade": {
+      "run": 12
+    }
+  },
+  {
+    "name": ["T", "HTBHD"],
+    "weapon": "weapon_molotov",
+    "position": [-271.41546630859, 1281.9725341797, 156.03125],
+    "viewangles": [3.0798420906067, 25.054685592651],
+    "grenade": {
+      "delay": 8,
+      "jump": true
+    }
+  },
+  {
+    "name": ["T", "CTrushbhd"],
+    "weapon": "weapon_hegrenade",
+    "position": [551.10754394531, 987.32452392578, 120.03125],
+    "viewangles": [-3.4098284244537, -5.7761430740356],
+    "grenade": {
+      "run": 20,
+      "recovery_yaw": 0
+    }
+  },
+  {
+    "name": ["T", "xfjpeekbhd"],
+    "description": "JUMP",
+    "weapon": "weapon_molotov",
+    "position": [488.61331176758, 1717.3920898438, 144.03125],
+    "viewangles": [2.7298760414124, -16.287593841553],
+    "grenade": {
+      "strength": 0.5,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Air", "AntiRushbhd"],
+    "weapon": "weapon_molotov",
+    "position": [848.68646240234, 1847.30859375, 204.58888244629],
+    "viewangles": [-2.7495722770691, -102.49184417725]
+  }
+],
+"de_cache":[
+  {
+    "name": ["B Hall", "gfcc"],
+    "weapon": "weapon_molotov",
+    "position": [1108.9483642578, -884.73980712891, 1614.03125],
+    "viewangles": [-8.873740196228, 177.59713745117],
+    "grenade": {
+      "run": 64
+    }
+  },
+  {
+    "name": ["Z", "Boostcc"],
+    "weapon": "weapon_molotov",
+    "position": [-260.03125, -72.968734741211, 1662.03125],
+    "viewangles": [2.1937696456909, 28.816886138916],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["Toxic", "btwcc"],
+    "weapon": "weapon_molotov",
+    "position": [972.99011230469, -1252.9555664063, 1613.0150146484],
+    "viewangles": [-24.964815139771, 179.10081481934],
+    "grenade": {
+      "run": 2
+    },
+    "destroy": {
+      "end": [
+        232.03128051758,
+        -1246.3182373047,
+        1889.4846191406
+      ],
+      "text": "Break the right window"
+    }
+  },
+  {
+    "name": ["Quad", "bccc"],
+    "weapon": "weapon_molotov",
+    "position": [-328.96875, 2274.96875, 1687.0314941406],
+    "viewangles": [-13.396735191345, -122.17283630371],
+    "grenade": {
+      "run": 5
+    }
+  },
+  {
+    "name": ["Vent", "boost"],
+    "weapon": "weapon_molotov",
+    "position": [588.69805908203, -148.89622497559, 1748.0627441406],
+    "viewangles": [1.5632661581039, 95.589767456055],
+    "grenade": {
+      "run": 27,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Middle", "gfcc"],
+    "weapon": "weapon_molotov",
+    "position": [-242.13070678711, -73.980056762695, 1703.03125],
+    "viewangles": [-69.241554260254, -102.96941375732],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["Long A", "ckcc"],
+    "weapon": "weapon_molotov",
+    "position": [1809.9331054688, 741.17340087891, 1613.03125],
+    "viewangles": [-1.3841022253036, -166.16442871094],
+    "grenade": {
+      "run": 64,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Car", "sdcc"],
+    "weapon": "weapon_molotov",
+    "position": [-897.0830078125, 1349.2393798828, 1687.03125],
+    "viewangles": [-19.187099456787, 58.917938232422]
+  },
+  {
+    "name": ["Catwalk", "cccc"],
+    "weapon": "weapon_molotov",
+    "position": [-325.96875, 914.37567138672, 1690.3712158203],
+    "viewangles": [-37.957622528076, 46.637271881104]
+  },
+  {
+    "name": ["Car", "bdccbx"],
+    "weapon": "weapon_molotov",
+    "position": [-982.07025146484, 790.64587402344, 1654.2663574219],
+    "viewangles": [-18.224174499512, 67.460220336914],
+    "grenade": {
+      "run": 29
+    }
+  },
+  {
+    "name": ["Car", "xpcc"],
+    "weapon": "weapon_molotov",
+    "position": [-969.03765869141, 914.40325927734, 1669.0480957031],
+    "viewangles": [-17.84302520752, 50.943450927734],
+    "grenade": {
+      "run": 20
+    }
+  },
+  {
+    "name": ["Car", "lmcc"],
+    "weapon": "weapon_molotov",
+    "position": [-1008.3825683594, 963.81878662109, 1674.9488525391],
+    "viewangles": [-14.989308357239, 38.771770477295],
+    "grenade": {
+      "run": 28
+    }
+  },
+  {
+    "name": ["Middle", "middlecc"],
+    "weapon": "weapon_molotov",
+    "position": [-292.56115722656, 677.19281005859, 1648.09375],
+    "viewangles": [-9.0992422103882, -39.296001434326],
+    "grenade": {
+      "run": 28
+    }
+  },
+  {
+    "name": ["Middle", "gdcc"],
+    "weapon": "weapon_molotov",
+    "position": [-277.02172851563, 696.37731933594, 1651.0378417969],
+    "viewangles": [-15.963284492493, -45.401786804199],
+    "grenade": {
+      "run": 28
+    }
+  },
+  {
+    "name": ["T Spawn", "boostcc"],
+    "description": "Oneway",
+    "weapon": "weapon_smokegrenade",
+    "position": [2301.96875, 253.95715332031, 1613.03125],
+    "viewangles": [-26.971206665039, 146.17730712891],
+    "grenade": {
+      "run": 1,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Quad", "BCCC"],
+    "weapon": "weapon_hegrenade",
+    "position": [-328.96875, 2274.96875, 1687.0314941406],
+    "viewangles": [11.281148529053, -121.18339538574],
+    "grenade": {
+      "run": 14,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Garage", "ckcc"],
+    "weapon": "weapon_molotov",
+    "position": [1819.9737548828, 847.97412109375, 1624.6141357422],
+    "viewangles": [-0.27401393651962, -163.67668151855],
+    "grenade": {
+      "run": 75,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Long A", "gdcc"],
+    "weapon": "weapon_molotov",
+    "position": [1292.3658447266, 1324.2473144531, 1708.9533691406],
+    "viewangles": [-20.38427734375, -116.67247009277],
+    "grenade": {
+      "run": 15
+    }
+  },
+  {
+    "name": ["Toxic", "sdcc"],
+    "weapon": "weapon_molotov",
+    "position": [505.037109375, -1228.5946044922, 1618.3869628906],
+    "viewangles": [-11.244069099426, -103.56811523438],
+    "grenade": {
+      "jump": true
+    },
+    "destroy": {
+      "end": [
+        232.03129577637,
+        -1425.9891357422,
+        1899.5775146484
+      ],
+      "start": [
+        392.70114135742,
+        -1442.7253417969,
+        1936.6384277344
+      ],
+      "text": "Break the left window"
+    }
+  },
+  {
+    "name": ["Toxic", "dxcc"],
+    "weapon": "weapon_molotov",
+    "position": [957.03125, -1464.9460449219, 1648.03125],
+    "viewangles": [-20.867980957031, 166.97924804688],
+    "destroy": {
+      "end": [
+        232.03125,
+        -1313.640625,
+        1889.4846191406
+      ],
+      "text": "Break the center windows"
+    }
+  },
+  {
+    "name": ["Vent Room", "gdcc"],
+    "weapon": "weapon_molotov",
+    "position": [425.96875, -413.98645019531, 1614.7534179688],
+    "viewangles": [-23.452697753906, 83.525054931641]
+  },
+  {
+    "name": ["Sandbags", "Boostcc"],
+    "weapon": "weapon_molotov",
+    "position": [16.96875, -26.889265060425, 1626.03125],
+    "viewangles": [-29.623977661133, 35.572448730469]
+  },
+  {
+    "name": ["Toxic", "sdcc"],
+    "weapon": "weapon_molotov",
+    "position": [635.29754638672, -1227.0174560547, 1613.0482177734],
+    "viewangles": [-32.851360321045, -150.44404602051]
+  },
+  {
+    "name": ["Truck", "xbccs"],
+    "weapon": "weapon_molotov",
+    "position": [-904.03125, 1000.0820922852, 1679.2733154297],
+    "viewangles": [-14.196702003479, 47.42032623291]
+  },
+  {
+    "name": ["Toxic", "btwcc"],
+    "weapon": "weapon_molotov",
+    "position": [955.93304443359, -1462.3758544922, 1711.03125],
+    "viewangles": [-18.551902770996, 168.33624267578]
+  },
+  {
+    "name": ["Quad", "xpcc"],
+    "weapon": "weapon_molotov",
+    "position": [-329.46875, 2274.96875, 1687.0314941406],
+    "viewangles": [-23.702861785889, -82.835739135742]
+  },
+  {
+    "name": ["Highway", "sdcc"],
+    "weapon": "weapon_molotov",
+    "position": [-302.71469116211, 408.28552246094, 1613.2297363281],
+    "viewangles": [-0.070056892931461, 89.230354309082],
+    "grenade": {
+      "run": 13,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Main", "gfcc"],
+    "weapon": "weapon_molotov",
+    "position": [896.12567138672, -883.92657470703, 1614.03125],
+    "viewangles": [-17.417554855347, 176.69236755371],
+    "grenade": {
+      "run": 15
+    }
+  },
+  {
+    "name": ["Middle", "ytcc"],
+    "weapon": "weapon_molotov",
+    "position": [46.40747833252, 303.888671875, 1613.0615234375],
+    "viewangles": [-30.400434494019, 123.67375946045],
+    "grenade": {
+      "run": 14
+    }
+  },
+  {
+    "name": ["Middle", "jzespcc"],
+    "weapon": "weapon_hegrenade",
+    "position": [556.68615722656, -133.17721557617, 1744.4006347656],
+    "viewangles": [-5.7644648551941, 160.11787414551],
+    "grenade": {
+      "run": 12
+    }
+  },
+  {
+    "name": ["Middle", "jzespcc"],
+    "weapon": "weapon_molotov",
+    "position": [180.88291931152, 467.94366455078, 1613.03125],
+    "viewangles": [-18.802978515625, -155.75074768066]
+  },
+  {
+    "name": ["here", "Boostcc"],
+    "weapon": "weapon_molotov",
+    "position": [-120.18635559082, 424.87142944336, 1613.03125],
+    "viewangles": [-23.993341445923, 4.9597067832947]
+  },
+  {
+    "name": ["here", "Boostcc"],
+    "weapon": "weapon_molotov",
+    "position": [-198.20524597168, 418.77334594727, 1614.09375],
+    "viewangles": [-24.513342, 5.459707]
+  },
+  {
+    "name": ["here", "jzespcc"],
+    "weapon": "weapon_molotov",
+    "position": [592.70446777344, 515.69708251953, 1614.03125],
+    "viewangles": [-17.722537994385, -162.96670532227],
+    "grenade": {
+      "run": 2
+    }
+  },
+  {
+    "name": ["here", "jzespcc"],
+    "description": "91hp safe",
+    "weapon": "weapon_hegrenade",
+    "position": [592.70446777344, 515.69708251953, 1614.03125],
+    "viewangles": [-16.262537994385, -163.76670532227],
+    "grenade": {
+      "run": 9
+    }
+  },
+  {
+    "name": ["here", "jzespcc"],
+    "description": "87hp unsafe",
+    "weapon": "weapon_hegrenade",
+    "position": [624.07080078125, 417.54891967773, 1614.0311279297],
+    "viewangles": [-16.349680786133, -167.93629150391],
+    "grenade": {
+      "run": 9
+    }
+  },
+  {
+    "name": ["here", "jzespcc"],
+    "weapon": "weapon_molotov",
+    "position": [931.79553222656, 612.83703613281, 1822.9783935547],
+    "viewangles": [-5.6940460205078, -163.06387329102],
+    "grenade": {
+      "run": 8
+    }
+  },
+  {
+    "name": ["Squeaky", "axcc"],
+    "weapon": "weapon_hegrenade",
+    "position": [289.1393737793, 2106.7365722656, 1688.03125],
+    "viewangles": [-20.404939651489, -141.3533782959],
+    "grenade": {
+      "fov": 5.12
+    },
+    "duck": true
+  },
+  {
+    "name": ["Squeaky", "xpcc"],
+    "weapon": "weapon_molotov",
+    "position": [360.44094848633, 2256.0834960938, 1688.03125],
+    "viewangles": [-6.8268837928772, -121.38583374023],
+    "grenade": {
+      "run": 2
+    }
+  },
+  {
+    "name": ["B-plant", "btwcc"],
+    "weapon": "weapon_molotov",
+    "position": [853.89141845703, -1375.3375244141, 1712.0401611328],
+    "viewangles": [-12.9113312, 171.413254]
+  },
+  {
+    "name": ["B-plant", "btwcc"],
+    "weapon": "weapon_molotov",
+    "position": [667.11187744141, -1227.0234375, 1758.1259765625],
+    "viewangles": [-5.04999161, 179.553818]
+  },
+  {
+    "name": ["B-plant", "btwcc"],
+    "weapon": "weapon_hegrenade",
+    "position": [667.11187744141, -1227.0234375, 1758.1259765625],
+    "viewangles": [-5.04999161, 179.553818]
+  },
+  {
+    "name": ["Unnamed", "2FCCCC"],
+    "weapon": "weapon_molotov",
+    "position": [-1081.1829833984, 956.38171386719, 1700.3139648438],
+    "viewangles": [-1.2540374994278, 18.314449310303],
+    "grenade": {
+      "fov": 5.12,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "jzespcc"],
+    "weapon": "weapon_molotov",
+    "position": [1353.8000488281, 692.37609863281, 1613.9345703125],
+    "viewangles": [1.9724093675613, -164.80673217773],
+    "grenade": {
+      "fov": 5.12,
+      "run": 30,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "axcc"],
+    "weapon": "weapon_molotov",
+    "position": [329.61340332031, 2136.5795898438, 1688.03125],
+    "viewangles": [-17.715394973755, -140.62747192383],
+    "grenade": {
+      "fov": 5.12
+    },
+    "duck": true
+  },
+  {
+    "name": ["Unnamed", "bccc"],
+    "weapon": "weapon_molotov",
+    "position": [347.00183105469, 2147.4729003906, 1688.03125],
+    "viewangles": [-16.21057510376, -141.27746582031],
+    "grenade": {
+      "fov": 5.12,
+      "run": 8
+    }
+  },
+  {
+    "name": ["Truck", "bxcc"],
+    "weapon": "weapon_molotov",
+    "position": [1928.5729980469, 655.33093261719, 1692.5150146484],
+    "viewangles": [2.9175755977631, -173.60514831543],
+    "grenade": {
+      "run": 16,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Whitebox", "Boostcc"],
+    "weapon": "weapon_knife",
+    "position": [281.30599975586, 474.96899414063, 1761.0310058594],
+    "viewangles": [3.299, -4.278],
+    "movement": {
+      "frames": [
+        [
+          0,
+          0,
+          "F"
+        ],
+        [
+          0.098999977111816
+        ],
+        [
+          0.13199996948242
+        ],
+        [
+          0.19799995422363,
+          0.098999977111816
+        ],
+        [
+          0.13199996948242
+        ],
+        [
+          0.23099994659424,
+          0.032999992370605
+        ],
+        [
+          0.13199996948242
+        ],
+        [
+          0.16499996185303
+        ],
+        [
+          0.13199996948242,
+          0.065999984741211
+        ],
+        [
+          0.13199996948242
+        ],
+        [
+          0.065999984741211
+        ],
+        [
+          0.098999977111816
+        ],
+        [
+          0.19799995422363
+        ],
+        [
+          0.16499996185303
+        ],
+        [
+          0.098999977111816
+        ],
+        [
+          0.19799995422363
+        ],
+        [
+          0.098999977111816
+        ],
+        [
+          0.32999992370605
+        ],
+        [
+          0.6269998550415,
+          -0.098999977111816
+        ],
+        [
+          0.46199989318848,
+          -0.098999977111816
+        ],
+        [
+          1.1549997329712,
+          -0.13199996948242
+        ],
+        [
+          0.32999992370605,
+          -0.098999977111816
+        ],
+        [
+          0.82499980926514,
+          -0.032999992370605
+        ],
+        [
+          0.39599990844727,
+          -0.13199996948242
+        ],
+        [
+          0.46199989318848,
+          -0.23099994659424
+        ],
+        [
+          0.19799995422363,
+          -0.16499996185303
+        ],
+        [
+          0.36299991607666,
+          -0.29699993133545
+        ],
+        [
+          0.16499996185303,
+          -0.16499996185303
+        ],
+        [
+          0.32999992370605,
+          -0.29699993133545
+        ],
+        [
+          0.23099994659424,
+          -0.16499996185303
+        ],
+        [
+          0.32999992370605,
+          -0.26399993896484
+        ],
+        [
+          0.23099994659424,
+          -0.16499996185303
+        ],
+        [
+          0.29699993133545,
+          -0.16499996185303
+        ],
+        [
+          0.29699993133545,
+          -0.13199996948242
+        ],
+        [
+          0.29699993133545,
+          -0.16499996185303
+        ],
+        [
+          0.65999984741211,
+          -0.26399993896484
+        ],
+        [
+          0.39599990844727,
+          -0.16499996185303
+        ],
+        [
+          0.36299991607666,
+          -0.19799995422363
+        ],
+        [
+          0.52799987792969,
+          -0.13199996948242
+        ],
+        [
+          0.29699993133545,
+          -0.065999984741211
+        ],
+        [
+          0.26399993896484
+        ],
+        [
+          0.42899990081787,
+          -0.032999992370605
+        ],
+        [
+          0.49499988555908
+        ],
+        [
+          0.23100090026855
+        ],
+        [
+          0.23100090026855
+        ],
+        [
+          0.16500091552734
+        ],
+        [
+          0.19800186157227,
+          0.19799995422363,
+          "J"
+        ],
+        [
+          0.29700088500977,
+          0.36299991607666,
+          "j"
+        ],
+        [
+          0.26399993896484,
+          0.52799987792969
+        ],
+        [
+          0.36300086975098,
+          0.89099979400635
+        ],
+        [
+          0.33000183105469,
+          0.98999977111816,
+          "L"
+        ],
+        [
+          0.26399993896484,
+          1.4189999103546
+        ],
+        [
+          0.29700088500977,
+          3.2339999675751
+        ],
+        1,
+        [
+          0.16500091552734,
+          3.3329999446869,
+          "f"
+        ],
+        [
+          0.13200187683105,
+          2.9700000286102
+        ],
+        [
+          0.066001892089844,
+          3.1020002365112
+        ],
+        [
+          0,
+          2.8379993438721
+        ],
+        [
+          0,
+          2.342999458313
+        ],
+        [
+          0,
+          2.5409994125366
+        ],
+        [
+          0,
+          3.2670001983643
+        ],
+        [
+          0.066001892089844,
+          3.2339992523193
+        ],
+        [
+          0.13199996948242,
+          2.4420013427734
+        ],
+        [
+          0,
+          1.6499996185303
+        ],
+        [
+          0,
+          3.5639991760254
+        ],
+        [
+          -0.065999984741211,
+          3.234001159668
+        ],
+        [
+          -0.13199996948242,
+          1.814998626709
+        ],
+        [
+          -0.23100090026855,
+          3.1679992675781
+        ],
+        [
+          -0.19799995422363,
+          3.6300010681152
+        ],
+        [
+          -0.23100090026855,
+          2.9700012207031
+        ],
+        [
+          -0.13200187683105,
+          2.5080032348633
+        ],
+        [
+          -0.23100090026855,
+          4.0260009765625
+        ],
+        [
+          -0.19799995422363,
+          2.9370002746582
+        ],
+        [
+          -0.19800186157227,
+          3.2999992370605
+        ],
+        [
+          -0.3960018157959,
+          4.2239990234375
+        ],
+        [
+          -0.23100090026855,
+          2.4419975280762
+        ],
+        [
+          -0.4950008392334,
+          3.8940048217773
+        ],
+        [
+          -0.46199989318848,
+          3.5640029907227
+        ],
+        [
+          -0.42900085449219,
+          2.3759994506836
+        ],
+        [
+          -0.52799987792969,
+          3.3000030517578
+        ],
+        [
+          -0.52799987792969,
+          2.6070022583008
+        ],
+        [
+          -0.6269998550415,
+          2.9700088500977
+        ],
+        [
+          -0.5939998626709,
+          2.640007019043
+        ],
+        [
+          -0.6269998550415,
+          2.6070022583008
+        ],
+        [
+          -1.2869997024536,
+          4.2900009155273
+        ],
+        [
+          -0.32999992370605,
+          1.0559997558594
+        ],
+        [
+          -0.95699977874756,
+          2.7720031738281
+        ],
+        [
+          -0.89099979400635,
+          2.4749984741211
+        ],
+        [
+          -1.1219997406006,
+          2.7060012817383
+        ],
+        [
+          -0.69299983978271,
+          1.3199996948242
+        ],
+        [
+          -0.85799980163574,
+          1.4189987182617
+        ],
+        [
+          -0.6269998550415,
+          0.85800170898438
+        ],
+        [
+          -0.52799987792969,
+          0.69300842285156
+        ],
+        [
+          -0.46199989318848,
+          0.46199798583984,
+          "D"
+        ],
+        [
+          -0.32999992370605,
+          0.13199615478516
+        ],
+        [
+          -0.36299991607666,
+          0.065994262695313
+        ],
+        [
+          -0.29699993133545,
+          0.065994262695313
+        ],
+        [
+          -0.29699993133545,
+          0.065994262695313
+        ],
+        [
+          -0.19799995422363,
+          0.066001892089844
+        ],
+        [
+          -0.23099994659424,
+          0.065994262695313
+        ],
+        [
+          -0.19799995422363
+        ],
+        [
+          -0.16499996185303
+        ],
+        [
+          -0.23099994659424
+        ],
+        [
+          -0.032999992370605
+        ],
+        [
+          -0.032999992370605
+        ],
+        [
+          -0.065999984741211
+        ]
+      ]
+    }
+  },
+  {
+    "name": ["WhiteBox", "boostcc"],
+    "weapon": "weapon_knife",
+    "position": [56.252998352051, 473.28698730469, 1761.0310058594],
+    "viewangles": [2.278, -2.944],
+    "movement": {
+      "frames": [
+        [
+          0,
+          0,
+          "F"
+        ],
+        [
+          0.066,
+          0.099
+        ],
+        [
+          0.066,
+          0.033
+        ],
+        [
+          0.033,
+          0.033
+        ],
+        [
+          0.033,
+          0.033
+        ],
+        [
+          0.033,
+          0.033
+        ],
+        [
+          0.033,
+          0.033
+        ],
+        [
+          0.033,
+          0.066
+        ],
+        [
+          0,
+          0.066
+        ],
+        [
+          0.033
+        ],
+        [
+          0.033,
+          0.033
+        ],
+        [
+          0.066,
+          0.033
+        ],
+        [
+          0.066,
+          0.132
+        ],
+        [
+          0.132,
+          0.264
+        ],
+        [
+          0,
+          0.033
+        ],
+        [
+          0.099,
+          0.132
+        ],
+        [
+          0.033,
+          0.132
+        ],
+        [
+          0.099,
+          0.099
+        ],
+        [
+          0.033,
+          0.066
+        ],
+        [
+          0.033,
+          0.066
+        ],
+        [
+          0.033,
+          0.099
+        ],
+        [
+          0.033,
+          0.099
+        ],
+        [
+          0.033,
+          0.099
+        ],
+        [
+          0.066,
+          0.099
+        ],
+        [
+          0,
+          0.066
+        ],
+        [
+          0.066
+        ],
+        [
+          0.033,
+          0.033
+        ],
+        [
+          0,
+          0.099
+        ],
+        [
+          0,
+          0.033
+        ],
+        [
+          0.033,
+          0.033
+        ],
+        [
+          0.066,
+          0.033
+        ],
+        [
+          0.066,
+          0.098999
+        ],
+        [
+          0.066,
+          0.132
+        ],
+        [
+          0.066,
+          0.033
+        ],
+        [
+          0.132,
+          0.132
+        ],
+        [
+          0.099,
+          0.099
+        ],
+        [
+          0.066,
+          0.066
+        ],
+        [
+          0.099,
+          0.066
+        ],
+        [
+          0.066,
+          0.066
+        ],
+        [
+          0.099,
+          0.066
+        ],
+        [
+          0.132,
+          0.066
+        ],
+        [
+          0.132,
+          0.099
+        ],
+        [
+          0.066,
+          0.033
+        ],
+        [
+          0.165,
+          0.033
+        ],
+        [
+          0.099,
+          0.066
+        ],
+        [
+          0.165,
+          0.066
+        ],
+        1,
+        [
+          0.099
+        ],
+        [
+          0.132,
+          0.066
+        ],
+        [
+          0.066,
+          0.033
+        ],
+        [
+          0.132
+        ],
+        [
+          0.066,
+          0.033
+        ],
+        [
+          0.165
+        ],
+        [
+          0.066
+        ],
+        [
+          0.132
+        ],
+        [
+          0.066
+        ],
+        [
+          0.165,
+          0.033
+        ],
+        [
+          0.132,
+          0.066
+        ],
+        [
+          0.066,
+          0.033
+        ],
+        [
+          0.099
+        ],
+        [
+          0.132,
+          0.033
+        ],
+        [
+          0.132
+        ],
+        [
+          0.033,
+          0.066
+        ],
+        [
+          0.132
+        ],
+        [
+          0.033
+        ],
+        [
+          0.099,
+          -0.033
+        ],
+        [
+          0.099,
+          -0.066
+        ],
+        [
+          0.066,
+          -0.099
+        ],
+        [
+          0.066,
+          -0.132
+        ],
+        [
+          0.132,
+          -0.231
+        ],
+        [
+          0.132,
+          -0.297
+        ],
+        [
+          0.165,
+          -0.363
+        ],
+        [
+          0.198,
+          -0.429
+        ],
+        [
+          0.165,
+          -0.329999
+        ],
+        [
+          0.066000000000001,
+          -0.363
+        ],
+        [
+          0.132,
+          -0.297
+        ],
+        [
+          0.066000000000001,
+          -0.231
+        ],
+        [
+          0.198,
+          -0.561001
+        ],
+        [
+          0.032999999999999,
+          -0.197999
+        ],
+        [
+          0.132,
+          -0.429
+        ],
+        [
+          0.099,
+          -0.33
+        ],
+        [
+          0.066000000000001,
+          -0.363
+        ],
+        [
+          0.132,
+          -0.363
+        ],
+        [
+          0.132,
+          -0.528
+        ],
+        [
+          0.099,
+          -0.297
+        ],
+        [
+          0.066000000000001,
+          -0.33
+        ],
+        [
+          0.066000000000001,
+          -0.231
+        ],
+        [
+          0.099,
+          -0.297
+        ],
+        [
+          0.032999999999999,
+          -0.231
+        ],
+        [
+          0.032999999999999,
+          -0.198
+        ],
+        [
+          0.032999999999999,
+          -0.264
+        ],
+        [
+          0.099,
+          -0.329999
+        ],
+        [
+          0.099,
+          -0.264
+        ],
+        [
+          0.032999999999999,
+          -0.264
+        ],
+        [
+          0.066000000000001,
+          -0.198
+        ],
+        [
+          0.099,
+          -0.264001
+        ],
+        [
+          0,
+          -0.165
+        ],
+        [
+          0,
+          -0.132
+        ],
+        [
+          0.032999999999999,
+          -0.198
+        ],
+        [
+          0.066000000000001,
+          -0.099
+        ],
+        [
+          0.032999999999999,
+          -0.099
+        ],
+        1,
+        [
+          0.066000000000001,
+          -0.032999999999999
+        ],
+        [
+          0.066000000000001,
+          0,
+          "J"
+        ],
+        [
+          0.198,
+          0.198,
+          "j"
+        ],
+        [
+          0.099,
+          0.198
+        ],
+        [
+          0.132,
+          0.792,
+          "L"
+        ],
+        [
+          0.066000000000001,
+          1.122
+        ],
+        [
+          0.099,
+          1.551
+        ],
+        [
+          0.066000000000001,
+          4.125,
+          "f"
+        ],
+        [
+          0,
+          1.253999
+        ],
+        [
+          0,
+          1.782001
+        ],
+        [
+          -0.099,
+          2.904
+        ],
+        [
+          -0.165,
+          2.738999
+        ],
+        [
+          -0.264,
+          3.003
+        ],
+        [
+          -0.363,
+          3.629999
+        ],
+        [
+          -0.363,
+          3.795
+        ],
+        [
+          -0.297,
+          2.673
+        ],
+        [
+          -0.396,
+          3.960001
+        ],
+        [
+          -0.528,
+          3.630001
+        ],
+        [
+          -0.33,
+          2.376002
+        ],
+        [
+          -0.495,
+          3.794998
+        ],
+        [
+          -0.462,
+          3.696003
+        ],
+        [
+          -0.528,
+          3.795002
+        ],
+        [
+          -0.33,
+          3.201
+        ],
+        [
+          -0.429,
+          3.167999
+        ],
+        [
+          -0.561,
+          3.828003
+        ],
+        [
+          -0.396,
+          2.738999
+        ],
+        [
+          -0.429,
+          2.771999
+        ],
+        [
+          -0.561,
+          3.333
+        ],
+        [
+          -0.462,
+          2.607002
+        ],
+        [
+          -0.594,
+          2.937005
+        ],
+        [
+          -0.495,
+          2.243995
+        ],
+        [
+          -0.528,
+          2.244004
+        ],
+        [
+          -0.561,
+          2.112007
+        ],
+        [
+          -0.561,
+          1.847999
+        ],
+        [
+          -0.561,
+          1.485001
+        ],
+        [
+          -0.363,
+          0.956993
+        ],
+        [
+          -0.528,
+          1.023003
+        ],
+        [
+          -0.495,
+          1.154998
+        ],
+        [
+          -0.66,
+          1.485001
+        ],
+        [
+          -1.155,
+          2.772003
+        ],
+        [
+          -0.165,
+          0.495003
+        ],
+        [
+          -0.825,
+          1.914001
+        ],
+        [
+          -0.561,
+          1.65001
+        ],
+        [
+          -0.66,
+          2.079002
+        ],
+        [
+          -0.66,
+          1.914009
+        ],
+        [
+          -0.495,
+          1.749001
+        ],
+        [
+          -0.594,
+          2.111991
+        ],
+        [
+          -0.528,
+          1.517998
+        ],
+        [
+          -0.429,
+          1.286995
+        ],
+        [
+          -0.396,
+          1.122002,
+          "D"
+        ],
+        [
+          -0.363,
+          1.02301
+        ],
+        [
+          -0.264,
+          0.462006
+        ],
+        [
+          -0.264,
+          0.594009
+        ],
+        [
+          -0.165,
+          0.329994
+        ],
+        [
+          -0.032999999999999,
+          0.296997
+        ],
+        [
+          -0.132,
+          0.197991
+        ],
+        [
+          0,
+          0.098999000000006
+        ],
+        [
+          -0.032999999999999,
+          0.032996999999995
+        ],
+        [
+          -0.032999999999999,
+          0.131996
+        ],
+        [
+          0,
+          0.032996999999995
+        ],
+        [
+          0,
+          0.164993
+        ]
+      ]
+    }
+  },
+  {
+    "name": ["White Box", "Boostcc"],
+    "weapon": "weapon_knife",
+    "position": [-69.03099822998, 549.18701171875, 1628.7120361328],
+    "viewangles": [8.184, -59.955],
+    "movement": {
+      "frames": [
+        [
+          0,
+          0,
+          "F"
+        ],
+        12,
+        [
+          0,
+          0,
+          "J"
+        ],
+        [
+          0,
+          0,
+          "j"
+        ],
+        3,
+        [
+          0,
+          0,
+          "Z"
+        ],
+        1,
+        [
+          0.044,
+          0.087997000000001
+        ],
+        [
+          0.66,
+          0.043998999999999
+        ],
+        [
+          1.496,
+          -0.528
+        ],
+        [
+          1.276,
+          -0.528
+        ],
+        [
+          1.848,
+          -1.056004
+        ],
+        [
+          2.552,
+          -1.891998
+        ],
+        [
+          1.716,
+          -1.936008,
+          "z"
+        ],
+        [
+          2.024,
+          -3.124001
+        ],
+        [
+          0.792,
+          -1.496002
+        ],
+        [
+          1.056,
+          -2.508003
+        ],
+        [
+          1.012,
+          -2.552002
+        ],
+        [
+          0.352,
+          -1.891998
+        ],
+        [
+          0.044,
+          -2.112
+        ],
+        [
+          0,
+          -1.496002
+        ],
+        [
+          0,
+          -1.364006
+        ],
+        [
+          -0.132,
+          -1.188004
+        ],
+        [
+          -0.132,
+          -0.748001
+        ],
+        [
+          -0.088000000000001,
+          -0.396004
+        ],
+        [
+          0,
+          -0.44001
+        ],
+        [
+          -0.132,
+          -0.528008
+        ],
+        7,
+        [
+          -0.044,
+          -0.13200399999999
+        ],
+        [
+          -0.176,
+          -0.395996
+        ],
+        [
+          -0.044,
+          -0.219994
+        ],
+        [
+          -0.132,
+          -0.307999
+        ],
+        [
+          -0.044,
+          -0.219994
+        ],
+        [
+          0,
+          -0.219994
+        ],
+        [
+          0,
+          -0.087997000000001
+        ],
+        [
+          0,
+          -0.131996
+        ],
+        [
+          0,
+          -0.131996
+        ],
+        [
+          0,
+          -0.131996
+        ],
+        [
+          0,
+          0,
+          "J"
+        ],
+        [
+          0,
+          -0.043998999999999,
+          "j"
+        ],
+        [
+          0,
+          -0.043998999999999
+        ],
+        [
+          0.264,
+          -0.087997000000001,
+          "L",
+          450,
+          -225
+        ],
+        [
+          1.496,
+          0.264
+        ],
+        [
+          1.056,
+          0.528008
+        ],
+        [
+          0.748,
+          0.572006
+        ],
+        [
+          1.188,
+          1.319992,
+          "f"
+        ],
+        [
+          0.792,
+          1.188004
+        ],
+        [
+          0.88,
+          1.408005
+        ],
+        [
+          0.836,
+          1.320007
+        ],
+        [
+          0.792,
+          1.364006
+        ],
+        [
+          0.792,
+          2.155998
+        ],
+        [
+          0.528,
+          1.760002
+        ],
+        [
+          0.352,
+          2.02401
+        ],
+        [
+          0.264,
+          2.156006
+        ],
+        [
+          0.132,
+          3.299995
+        ],
+        [
+          0.043999999999997,
+          2.551994
+        ],
+        [
+          0,
+          3.036003
+        ],
+        [
+          -0.088000000000001,
+          4.092003
+        ],
+        [
+          -0.176,
+          3.431999
+        ],
+        [
+          -0.176,
+          3.211998
+        ],
+        [
+          -0.396,
+          4.972
+        ],
+        [
+          -0.396,
+          3.475998
+        ],
+        [
+          -0.484,
+          3.783997
+        ],
+        [
+          -0.704,
+          4.092003
+        ],
+        [
+          -0.616,
+          2.727997
+        ],
+        [
+          -0.66,
+          2.068001
+        ],
+        [
+          -0.616,
+          1.76
+        ],
+        [
+          -0.748,
+          2.156
+        ],
+        [
+          -0.528,
+          1.628
+        ],
+        [
+          -0.616,
+          1.584
+        ],
+        [
+          -0.616,
+          1.672001
+        ],
+        [
+          -0.66,
+          2.024
+        ],
+        [
+          -0.528,
+          1.98
+        ],
+        [
+          -0.616,
+          2.948
+        ],
+        [
+          -0.44,
+          1.936
+        ],
+        [
+          -0.396,
+          1.804
+        ],
+        [
+          -0.22,
+          1.584,
+          "J"
+        ],
+        [
+          -0.088000000000001,
+          2.2,
+          "j"
+        ],
+        [
+          0,
+          1.804
+        ],
+        [
+          0,
+          1.452
+        ],
+        [
+          0,
+          1.672
+        ],
+        [
+          0,
+          1.056
+        ],
+        [
+          0.176,
+          1.276
+        ],
+        [
+          0.308,
+          1.1
+        ],
+        [
+          0.484,
+          1.276
+        ],
+        [
+          0.88,
+          2.244,
+          "Z"
+        ],
+        [
+          0.792,
+          2.112,
+          "D"
+        ],
+        [
+          0.484,
+          2.288
+        ],
+        [
+          0.264,
+          2.376
+        ],
+        [
+          0.132,
+          2.552
+        ],
+        [
+          0.044,
+          1.495999
+        ],
+        [
+          0,
+          0.88
+        ],
+        [
+          0,
+          0.264,
+          "z"
+        ],
+        1,
+        [
+          0,
+          0,
+          "dF",
+          225
+        ],
+        1,
+        [
+          0,
+          0,
+          "l"
+        ],
+        [
+          -0.308,
+          -0.484
+        ],
+        [
+          -0.748,
+          -0.924
+        ],
+        [
+          -1.1,
+          -1.363999
+        ],
+        [
+          -1.232,
+          -2.024
+        ],
+        [
+          -0.704,
+          -1.804
+        ],
+        [
+          -0.748,
+          -1.760001
+        ],
+        [
+          -1.012,
+          -1.804
+        ],
+        [
+          -1.54,
+          -2.376
+        ],
+        [
+          -1.144,
+          -1.584
+        ],
+        [
+          -1.276,
+          -1.144
+        ],
+        [
+          -1.276,
+          -0.792
+        ],
+        [
+          -0.924,
+          -0.704
+        ],
+        [
+          -0.396,
+          -0.308
+        ],
+        15,
+        [
+          -0.264,
+          -0.22
+        ],
+        [
+          0.22,
+          -0.44
+        ],
+        [
+          0.087999999999999,
+          -0.088
+        ],
+        [
+          0.044,
+          -0.088
+        ],
+        1,
+        [
+          0.176,
+          -0.22
+        ],
+        [
+          0.176,
+          -0.044
+        ],
+        [
+          0.132,
+          -0.088
+        ],
+        [
+          0.44,
+          -0.088
+        ],
+        [
+          0.44,
+          -0.044
+        ],
+        [
+          0.704
+        ],
+        [
+          0.528,
+          0.088
+        ],
+        [
+          0.44,
+          0,
+          "L"
+        ],
+        [
+          0.528,
+          0.044
+        ],
+        [
+          0.308,
+          0.088
+        ],
+        [
+          0.308,
+          0.088,
+          "l"
+        ],
+        [
+          0.176,
+          0.044
+        ],
+        [
+          0.264
+        ],
+        [
+          0.352,
+          -0.044
+        ],
+        [
+          0.396,
+          -0.044
+        ],
+        [
+          0.396,
+          -0.044
+        ],
+        [
+          0.396
+        ],
+        [
+          0.484
+        ],
+        [
+          0.44
+        ],
+        [
+          0.484
+        ],
+        [
+          0.748,
+          0.132
+        ],
+        [
+          0.66
+        ],
+        [
+          0.66,
+          0.088
+        ],
+        [
+          0.792,
+          0.088
+        ],
+        [
+          1.188,
+          0.132
+        ],
+        [
+          0.528,
+          0.044
+        ],
+        [
+          1.628,
+          -0.088
+        ],
+        [
+          1.1,
+          -0.132
+        ],
+        [
+          1.144,
+          -0.088
+        ],
+        [
+          1.496,
+          -0.088
+        ],
+        [
+          1.54,
+          -0.044
+        ],
+        [
+          0.836,
+          -0.088
+        ],
+        [
+          1.584,
+          -0.088
+        ],
+        [
+          0.88,
+          -0.088
+        ],
+        [
+          1.804,
+          -0.176
+        ],
+        [
+          1.232,
+          -0.044
+        ],
+        [
+          1.232,
+          -0.176
+        ],
+        [
+          1.496,
+          -0.132
+        ],
+        [
+          1.364
+        ],
+        [
+          1.452
+        ],
+        [
+          1.892,
+          -0.088
+        ],
+        [
+          2.772,
+          -0.308
+        ],
+        [
+          1.98,
+          -0.176
+        ],
+        [
+          1.584,
+          -0.044
+        ],
+        [
+          1.716,
+          0.088
+        ],
+        [
+          1.32,
+          -0.132
+        ],
+        [
+          1.144,
+          -0.044
+        ],
+        [
+          1.232
+        ],
+        [
+          1.364,
+          -0.088
+        ],
+        [
+          1.584,
+          -0.176
+        ],
+        [
+          1.012,
+          -0.088
+        ],
+        [
+          0.836,
+          -0.132
+        ],
+        [
+          0.616,
+          -0.176
+        ],
+        [
+          0.22,
+          -0.176
+        ],
+        [
+          0.13200000000001,
+          -0.176
+        ],
+        [
+          0.087999999999994,
+          -0.176
+        ],
+        [
+          0.043999999999997,
+          -0.968
+        ],
+        [
+          -0.22,
+          -0.924
+        ],
+        [
+          -0.792,
+          -1.056001
+        ],
+        [
+          -2.068,
+          -1.232,
+          "J"
+        ],
+        [
+          -2.508,
+          -1.1,
+          "j"
+        ],
+        [
+          -2.464,
+          -0.836
+        ],
+        [
+          -1.936,
+          -0.22,
+          "L"
+        ],
+        [
+          -1.848,
+          0.615999
+        ],
+        [
+          -1.452,
+          0.748
+        ],
+        [
+          -1.892,
+          1.188
+        ],
+        [
+          -1.1,
+          1.188
+        ],
+        [
+          -0.968,
+          1.892,
+          "f"
+        ],
+        [
+          -1.232,
+          3.036
+        ],
+        [
+          -0.924,
+          2.376
+        ],
+        [
+          -0.748,
+          2.904
+        ],
+        [
+          -0.528,
+          3.211999
+        ],
+        [
+          -0.44,
+          4.092001
+        ],
+        [
+          -0.308,
+          2.992001
+        ],
+        [
+          -0.308,
+          3.080001
+        ],
+        [
+          -0.264,
+          3.079998
+        ],
+        [
+          -0.308,
+          4.796
+        ],
+        [
+          -0.44,
+          3.388002
+        ],
+        [
+          -0.484,
+          3.476
+        ],
+        [
+          -0.44,
+          3.476002
+        ],
+        [
+          -0.44,
+          3.212002
+        ],
+        [
+          -0.44,
+          3.652
+        ],
+        [
+          -0.484,
+          2.992001
+        ],
+        [
+          -0.308,
+          2.948002
+        ],
+        [
+          -0.572,
+          4.443996
+        ],
+        [
+          -0.484,
+          3.167999
+        ],
+        [
+          -0.704,
+          3.167999
+        ],
+        [
+          -1.1,
+          3.652
+        ],
+        [
+          -0.748,
+          2.420002
+        ],
+        [
+          -0.792,
+          2.375999
+        ],
+        [
+          -1.144,
+          3.740005
+        ],
+        [
+          -0.44,
+          1.848
+        ],
+        [
+          -1.056,
+          4.224007
+        ],
+        [
+          -0.748,
+          2.639999
+        ],
+        [
+          -0.748,
+          2.816002
+        ],
+        [
+          -0.88,
+          3.036003
+        ],
+        [
+          -0.704,
+          2.595993
+        ],
+        [
+          -0.528,
+          2.551994
+        ],
+        [
+          -0.704,
+          2.552002
+        ],
+        [
+          -0.968,
+          3.167999
+        ],
+        [
+          -0.44,
+          1.671997
+        ],
+        [
+          -0.352,
+          1.364006
+        ],
+        [
+          -0.396,
+          1.276009
+        ],
+        [
+          -0.44,
+          1.540009
+        ],
+        [
+          -0.308,
+          0.879997
+        ],
+        [
+          -0.264,
+          0.660004
+        ],
+        [
+          -0.264,
+          0.660004
+        ],
+        [
+          -0.704,
+          1.804001
+        ],
+        [
+          -0.44,
+          1.231995,
+          "D"
+        ],
+        [
+          -0.616,
+          1.408005
+        ],
+        [
+          -0.704,
+          0.968002
+        ],
+        [
+          -0.924,
+          0.572006
+        ],
+        [
+          -0.572,
+          0.131996
+        ],
+        [
+          -0.66,
+          -0.087997000000001
+        ],
+        [
+          -0.748,
+          -0.307991,
+          "F"
+        ],
+        [
+          -0.748,
+          -0.484009
+        ],
+        [
+          -0.66,
+          -0.572006
+        ],
+        [
+          -0.484,
+          -0.660004
+        ],
+        [
+          -0.264,
+          -0.879997,
+          "l"
+        ],
+        [
+          -0.264,
+          -0.923996
+        ],
+        [
+          -0.176,
+          -0.924004
+        ],
+        [
+          0,
+          -0.748001
+        ],
+        [
+          0.264,
+          -0.968002
+        ],
+        [
+          0.132,
+          -0.35200500000001
+        ],
+        [
+          0.528,
+          -1.012001
+        ],
+        [
+          1.32,
+          -2.288002
+        ],
+        [
+          2.112,
+          -3.916,
+          "d"
+        ],
+        [
+          2.86,
+          -4.752007
+        ],
+        [
+          1.672,
+          -1.848007
+        ],
+        [
+          1.056,
+          -0.792
+        ],
+        [
+          0.572,
+          -0.396004
+        ],
+        [
+          0.396,
+          -0.307991
+        ],
+        [
+          0.176,
+          -0.219994
+        ],
+        1,
+        [
+          0.044,
+          -0.131996
+        ],
+        [
+          0,
+          -0.043998999999999
+        ],
+        3,
+        [
+          0,
+          0.175995
+        ],
+        [
+          0.176,
+          0.263992
+        ],
+        [
+          0.484,
+          0.396004,
+          "J"
+        ],
+        [
+          0.968,
+          0.395996,
+          "jR"
+        ],
+        [
+          0.66,
+          0.087997000000001
+        ],
+        [
+          0.748,
+          -0.48400100000001,
+          "f"
+        ],
+        [
+          1.452,
+          -1.451996
+        ],
+        [
+          1.54,
+          -1.847992
+        ],
+        [
+          1.364,
+          -2.112
+        ],
+        [
+          0.836,
+          -1.671997
+        ],
+        [
+          0.748,
+          -1.848
+        ],
+        [
+          0.484,
+          -1.936005
+        ],
+        [
+          0.22,
+          -3.520012
+        ],
+        [
+          0,
+          -3.167999
+        ],
+        [
+          -0.132,
+          -2.684006
+        ],
+        [
+          -0.396,
+          -2.244003,
+          "L",
+          0,
+          0
+        ],
+        [
+          -0.572,
+          -1.848003,
+          "r"
+        ],
+        [
+          -0.396,
+          -0.748001
+        ],
+        [
+          -0.44,
+          0.087997000000001
+        ],
+        [
+          -0.396,
+          0.66
+        ],
+        [
+          -1.276,
+          3.564003
+        ],
+        [
+          -0.748,
+          4.444
+        ],
+        [
+          -0.968,
+          6.072006
+        ],
+        [
+          -0.352,
+          3.299995
+        ],
+        [
+          -0.22,
+          2.771996
+        ],
+        [
+          0,
+          1.496002
+        ],
+        [
+          0,
+          0.880005,
+          "RZ",
+          0,
+          0
+        ],
+        [
+          0,
+          0.13200399999999,
+          "l"
+        ],
+        1,
+        [
+          -0.088000000000001,
+          -1.232002
+        ],
+        [
+          -0.088000000000001,
+          -2.816002
+        ],
+        [
+          -0.132,
+          -6.071999,
+          "z"
+        ],
+        [
+          -0.044,
+          -5.235992
+        ],
+        [
+          -0.264,
+          -5.015999,
+          "F",
+          225
+        ],
+        [
+          -0.528,
+          -6.731998
+        ],
+        [
+          -0.396,
+          -4.576,
+          "r"
+        ],
+        [
+          -0.264,
+          -5.059998
+        ],
+        [
+          -0.22,
+          -4.619995
+        ],
+        [
+          -0.22,
+          -6.116001
+        ],
+        [
+          -0.132,
+          -4.135998
+        ],
+        [
+          -0.22,
+          -3.387999,
+          "R"
+        ],
+        [
+          -0.22,
+          -2.243999
+        ],
+        [
+          -0.528,
+          -2.024
+        ],
+        [
+          -0.308,
+          -0.615999
+        ],
+        [
+          -0.132,
+          -0.263998
+        ],
+        [
+          -0.044,
+          -0.176001
+        ],
+        [
+          -0.044,
+          -1.188
+        ],
+        [
+          0,
+          -1.759998
+        ],
+        [
+          0.176,
+          -3.08
+        ],
+        [
+          0.352,
+          -4.707999,
+          "J"
+        ],
+        [
+          1.012,
+          -7.919999,
+          "j"
+        ],
+        [
+          0.924,
+          -5.632
+        ],
+        [
+          0.792,
+          -5.06,
+          "f"
+        ],
+        [
+          1.012,
+          -5.192
+        ],
+        [
+          1.32,
+          -5.323999
+        ],
+        [
+          1.012,
+          -3.651999
+        ],
+        [
+          1.188,
+          -3.695999
+        ],
+        [
+          1.144,
+          -3.960001
+        ],
+        [
+          1.628,
+          -7.304001
+        ],
+        [
+          0.968,
+          -6.247997
+        ],
+        [
+          0.484,
+          -5.587997
+        ],
+        [
+          0.264,
+          -5.279999
+        ],
+        [
+          0.176,
+          -4.663998
+        ],
+        [
+          0.22,
+          -5.411999
+        ],
+        [
+          0.088000000000001,
+          -3.519997
+        ],
+        [
+          0,
+          -3.431999
+        ],
+        [
+          0,
+          -4.003998
+        ],
+        [
+          0,
+          -2.507996
+        ],
+        [
+          -0.088000000000001,
+          -2.639999
+        ],
+        [
+          -0.088000000000001,
+          -1.056,
+          "L",
+          0,
+          0
+        ],
+        [
+          -0.264,
+          -1.628006,
+          "r"
+        ],
+        [
+          -0.264,
+          -0.792
+        ],
+        [
+          -0.308,
+          -0.131996
+        ],
+        [
+          -0.616,
+          1.056
+        ],
+        [
+          -0.704,
+          1.584
+        ],
+        [
+          -1.188,
+          3.036003
+        ],
+        [
+          -1.276,
+          5.015999
+        ],
+        [
+          -1.232,
+          10.208004
+        ],
+        [
+          -0.66,
+          7.787998
+        ],
+        [
+          -1.1,
+          6.028
+        ],
+        [
+          -1.276,
+          5.104
+        ],
+        [
+          -1.672,
+          5.852001
+        ],
+        [
+          -1.716,
+          4.664001
+        ],
+        [
+          -1.584,
+          4.224001,
+          "S"
+        ],
+        [
+          -2.288,
+          5.148001
+        ],
+        [
+          -1.364,
+          2.816,
+          "F"
+        ],
+        [
+          -0.88,
+          2.068001
+        ],
+        [
+          -0.572,
+          1.32
+        ],
+        [
+          -0.308,
+          0.616
+        ],
+        [
+          -0.088000000000001,
+          0.264,
+          "l"
+        ],
+        [
+          -0.308,
+          0.923999
+        ],
+        [
+          -0.352,
+          0.879999
+        ],
+        [
+          -0.396,
+          0.879999
+        ],
+        [
+          -0.484,
+          0.835999
+        ],
+        [
+          -0.704,
+          1.012
+        ],
+        [
+          -0.308,
+          0.528
+        ],
+        [
+          -0.22,
+          0.264
+        ],
+        [
+          -0.088000000000001,
+          0.132
+        ],
+        [
+          -0.132,
+          0.22
+        ],
+        [
+          -0.352,
+          0.352
+        ],
+        [
+          -0.352,
+          0.308
+        ],
+        [
+          -0.44,
+          0.351999
+        ],
+        [
+          -0.308,
+          0.176
+        ],
+        [
+          -0.396,
+          0.176
+        ],
+        [
+          -0.44,
+          0.22
+        ],
+        [
+          -0.396,
+          0.264
+        ]
+      ]
+    }
+  },
+  {
+    "name": ["Ticket", "Boostcc"],
+    "weapon": "weapon_knife",
+    "position": [-325.96899414063, 975.96899414063, 1694.0310058594],
+    "viewangles": [10.34, -62.86],
+    "movement": {
+      "frames": [
+        10,
+        [
+          0,
+          0,
+          "F"
+        ],
+        23,
+        [
+          -0.044
+        ],
+        [
+          0.087999999999999
+        ],
+        [
+          0.22,
+          0.087997000000001
+        ],
+        [
+          0.176,
+          0.043998999999999
+        ],
+        [
+          0.132,
+          0.043998999999999
+        ],
+        [
+          0.087999999999999,
+          0.043998999999999
+        ],
+        [
+          0.22,
+          0.043998999999999
+        ],
+        [
+          0.132,
+          0.043998999999999
+        ],
+        [
+          0.132,
+          0.043998999999999
+        ],
+        [
+          0.176
+        ],
+        [
+          0.264,
+          0.043998999999999
+        ],
+        [
+          0.132
+        ],
+        [
+          0.308
+        ],
+        [
+          0.176
+        ],
+        1,
+        [
+          0.132,
+          -0.087997000000001
+        ],
+        [
+          0.044,
+          -0.043998999999999
+        ],
+        [
+          0.087999999999999
+        ],
+        [
+          0.044
+        ],
+        [
+          0.132,
+          -0.043998999999999
+        ],
+        [
+          0.087999999999999
+        ],
+        [
+          0.132
+        ],
+        [
+          0.176,
+          -0.043998999999999
+        ],
+        [
+          0.132
+        ],
+        [
+          0.087999999999999
+        ],
+        [
+          0.044
+        ],
+        [
+          0.044
+        ],
+        [
+          0.044
+        ],
+        [
+          0.087999999999999
+        ],
+        [
+          0.264
+        ],
+        [
+          0.22,
+          -0.043998999999999
+        ],
+        [
+          0.264,
+          -0.132
+        ],
+        [
+          0.264,
+          -0.352001
+        ],
+        [
+          0.308,
+          -0.220001
+        ],
+        [
+          0.396,
+          -0.352005
+        ],
+        [
+          0.308,
+          -0.264
+        ],
+        [
+          0.264,
+          -0.263992
+        ],
+        [
+          0.264,
+          -0.219994
+        ],
+        [
+          0.308,
+          -0.219994
+        ],
+        [
+          0.484,
+          -0.395996
+        ],
+        [
+          0.352,
+          -0.219994
+        ],
+        [
+          0.396,
+          -0.175995
+        ],
+        [
+          0.22,
+          -0.131996
+        ],
+        [
+          0.176,
+          -0.219994
+        ],
+        [
+          0.132,
+          -0.087997000000001
+        ],
+        [
+          0.132,
+          -0.131996
+        ],
+        [
+          0.088000000000001,
+          -0.175995
+        ],
+        [
+          0.044,
+          -0.175995
+        ],
+        [
+          0.044,
+          -0.175995
+        ],
+        [
+          0.044,
+          -0.131996
+        ],
+        [
+          0,
+          -0.175995
+        ],
+        [
+          0,
+          -0.307999
+        ],
+        [
+          0.044,
+          -0.484009
+        ],
+        [
+          0,
+          -0.263992
+        ],
+        [
+          0,
+          -0.307991
+        ],
+        [
+          0,
+          -0.175995
+        ],
+        [
+          0,
+          -0.219994
+        ],
+        [
+          0,
+          -0.131996
+        ],
+        [
+          0,
+          -0.219994
+        ],
+        [
+          -0.044,
+          -0.396011
+        ],
+        [
+          -0.132,
+          -0.44001
+        ],
+        [
+          -0.132,
+          -0.484009
+        ],
+        [
+          -0.088000000000001,
+          -0.175995
+        ],
+        [
+          -0.176,
+          -0.35200500000001
+        ],
+        [
+          -0.264,
+          -0.44001
+        ],
+        [
+          -0.528,
+          -0.660011
+        ],
+        [
+          -0.528,
+          -0.44001
+        ],
+        [
+          -0.616,
+          -0.484009
+        ],
+        [
+          -0.616,
+          -0.484009
+        ],
+        [
+          -0.924,
+          -0.44000200000001
+        ],
+        [
+          -0.792,
+          -0.307999
+        ],
+        [
+          -0.704,
+          -0.131996
+        ],
+        [
+          -0.792,
+          -0.131996
+        ],
+        [
+          -0.88,
+          -0.043998999999999
+        ],
+        [
+          -1.144
+        ],
+        [
+          -0.748,
+          0.219994,
+          "JL"
+        ],
+        [
+          -0.704,
+          0.572006,
+          "j"
+        ],
+        [
+          -0.792,
+          1.143997
+        ],
+        [
+          -0.396,
+          1.188004
+        ],
+        [
+          -0.132,
+          1.76001,
+          "f"
+        ],
+        [
+          0,
+          1.100006
+        ],
+        [
+          0.044,
+          1.055992
+        ],
+        [
+          0.22,
+          1.099998
+        ],
+        [
+          0.44,
+          1.408005
+        ],
+        [
+          0.528,
+          1.496002
+        ],
+        [
+          0.748,
+          2.243999
+        ],
+        [
+          0.616,
+          1.584
+        ],
+        [
+          0.572,
+          1.452003
+        ],
+        [
+          0.484,
+          1.276001
+        ],
+        [
+          0.484,
+          1.584
+        ],
+        [
+          0.396,
+          1.188
+        ],
+        [
+          0.44,
+          1.275997
+        ],
+        [
+          0.528,
+          1.628002
+        ],
+        [
+          0.484,
+          1.408001
+        ],
+        [
+          0.616,
+          1.540001,
+          "Z"
+        ],
+        [
+          0.66,
+          1.276001
+        ],
+        [
+          1.012,
+          1.32
+        ],
+        [
+          0.66,
+          0.616001
+        ],
+        [
+          0.572,
+          0.307999,
+          "R",
+          0,
+          0
+        ],
+        [
+          0.792,
+          0.043998999999999,
+          "",
+          0,
+          0
+        ],
+        [
+          0.88,
+          -0.308002,
+          "l"
+        ],
+        [
+          1.232,
+          -0.835999,
+          "z"
+        ],
+        [
+          1.056,
+          -1.188
+        ],
+        [
+          0.924,
+          -1.540001
+        ],
+        [
+          0.704,
+          -1.759998
+        ],
+        [
+          0.836,
+          -2.112
+        ],
+        [
+          0.66,
+          -1.759998
+        ],
+        [
+          0.616,
+          -1.584
+        ],
+        [
+          0.748,
+          -2.420002
+        ],
+        [
+          0.572,
+          -1.759998
+        ],
+        [
+          0.484,
+          -1.804001
+        ],
+        [
+          0.484,
+          -1.759998
+        ],
+        [
+          0.484,
+          -2.068005
+        ],
+        [
+          0.308,
+          -1.496002
+        ],
+        [
+          0.308,
+          -1.144005,
+          "J"
+        ],
+        [
+          0.132,
+          -0.835999,
+          "j"
+        ],
+        [
+          0.132,
+          -0.836006
+        ],
+        [
+          0.132,
+          -0.307999
+        ],
+        [
+          0,
+          -0.087997000000001,
+          "L",
+          0,
+          225
+        ],
+        [
+          0,
+          0,
+          "",
+          0,
+          0
+        ],
+        [
+          0.088000000000001,
+          -0.043998999999999,
+          "",
+          0,
+          0
+        ],
+        [
+          0.264,
+          0.175995,
+          "r"
+        ],
+        [
+          0.352,
+          0.307999
+        ],
+        [
+          0.396,
+          0.44001
+        ],
+        [
+          0.396,
+          0.616005
+        ],
+        [
+          0.528,
+          1.099998
+        ],
+        [
+          0.352,
+          0.967995
+        ],
+        [
+          0.308,
+          1.011993
+        ],
+        [
+          0.264,
+          1.363991
+        ],
+        [
+          0.132,
+          1.187996
+        ],
+        [
+          0.088000000000001,
+          1.319996
+        ],
+        [
+          0.044,
+          1.407997
+        ],
+        [
+          0.044,
+          1.803997
+        ],
+        [
+          0,
+          1.672001
+        ],
+        [
+          0,
+          2.111996
+        ],
+        [
+          -0.088000000000001,
+          3.079998
+        ],
+        [
+          -0.088000000000001,
+          2.111996
+        ],
+        [
+          -0.088000000000001,
+          2.243999
+        ],
+        [
+          -0.22,
+          2.332001
+        ],
+        [
+          -0.748,
+          3.519997
+        ],
+        [
+          -0.44,
+          1.759998
+        ],
+        [
+          -0.924,
+          4.004002
+        ],
+        [
+          -0.748,
+          3.255997
+        ],
+        [
+          -0.748,
+          3.036001
+        ],
+        [
+          -0.748,
+          3.784
+        ],
+        [
+          -0.528,
+          3.168001
+        ],
+        [
+          -0.484,
+          2.991999
+        ],
+        [
+          -0.66,
+          3.256001,
+          "J"
+        ],
+        [
+          -0.66,
+          3.432,
+          "j"
+        ],
+        [
+          -0.616,
+          4.356001
+        ],
+        [
+          -0.308,
+          3.08
+        ],
+        [
+          -0.264,
+          3.212
+        ],
+        [
+          -0.264,
+          4.224
+        ],
+        [
+          -0.22,
+          3.344
+        ],
+        [
+          -0.176,
+          3.3
+        ],
+        [
+          -0.132,
+          3.3
+        ],
+        [
+          -0.176,
+          3.652
+        ],
+        [
+          -0.044,
+          2.156
+        ],
+        [
+          0,
+          1.496
+        ],
+        [
+          0,
+          1.276001
+        ],
+        [
+          0,
+          0.572001,
+          "D"
+        ],
+        [
+          0,
+          0.307999
+        ],
+        [
+          0,
+          0.044001000000002
+        ],
+        2,
+        [
+          0,
+          0,
+          "F",
+          225
+        ],
+        [
+          0.132,
+          -0.132
+        ],
+        [
+          0.176,
+          -0.528,
+          "d"
+        ],
+        [
+          0.088000000000001,
+          -0.528002,
+          "l"
+        ],
+        [
+          0.044,
+          -0.659998
+        ],
+        [
+          0.132,
+          -1.935999
+        ],
+        [
+          0.088000000000001,
+          -1.76
+        ],
+        [
+          0,
+          -1.584
+        ],
+        [
+          0.044,
+          -1.76
+        ],
+        [
+          0,
+          -3.036
+        ],
+        [
+          0,
+          -2.332
+        ],
+        [
+          0,
+          -2.464
+        ],
+        [
+          -0.044,
+          -2.068
+        ],
+        [
+          -0.352,
+          -1.364
+        ],
+        [
+          -0.748,
+          -2.508
+        ],
+        [
+          -0.132,
+          -0.396
+        ],
+        14,
+        [
+          0,
+          -0.396
+        ],
+        [
+          0.044,
+          -0.044
+        ],
+        [
+          0.044,
+          0.044
+        ],
+        [
+          0,
+          0.132
+        ],
+        [
+          0.088000000000001,
+          0.132
+        ],
+        [
+          0.132
+        ],
+        [
+          0.176,
+          -0.044
+        ],
+        [
+          0.616
+        ],
+        [
+          0.528,
+          0.132
+        ],
+        [
+          0.484,
+          0.088
+        ],
+        [
+          0.66
+        ],
+        [
+          0.66,
+          0.132
+        ],
+        [
+          0.66,
+          -0.176
+        ],
+        [
+          0.836,
+          -0.132
+        ],
+        [
+          0.572,
+          -0.088
+        ],
+        [
+          0.308,
+          0,
+          "L",
+          450,
+          -225
+        ],
+        [
+          0.264
+        ],
+        [
+          0.264,
+          0.088
+        ],
+        [
+          0.572,
+          0,
+          "l"
+        ],
+        [
+          0.528
+        ],
+        [
+          0.66,
+          -0.044
+        ],
+        [
+          0.748,
+          0.044
+        ],
+        [
+          0.792,
+          0.088
+        ],
+        [
+          1.056
+        ],
+        [
+          0.704,
+          -0.088
+        ],
+        [
+          0.66,
+          -0.044
+        ],
+        [
+          0.704,
+          -0.132
+        ],
+        [
+          1.012,
+          -0.264
+        ],
+        [
+          0.704,
+          -0.176
+        ],
+        [
+          0.792,
+          -0.176
+        ],
+        [
+          1.188,
+          -0.22
+        ],
+        [
+          0.528,
+          -0.088
+        ],
+        [
+          1.276,
+          -0.22
+        ],
+        [
+          0.792,
+          -0.352
+        ],
+        [
+          1.144,
+          -0.132
+        ],
+        [
+          1.628,
+          -0.308
+        ],
+        [
+          0.88,
+          -0.308
+        ],
+        [
+          1.012,
+          -0.176
+        ],
+        [
+          0.924,
+          -0.44
+        ],
+        [
+          1.32,
+          -0.176001
+        ],
+        [
+          0.968,
+          -0.132
+        ],
+        [
+          1.056,
+          -0.22
+        ],
+        [
+          0.88,
+          -0.132
+        ],
+        [
+          1.144,
+          -0.264
+        ],
+        [
+          1.1,
+          -0.264
+        ],
+        [
+          0.924,
+          -0.263999
+        ],
+        [
+          1.584,
+          -0.528
+        ],
+        [
+          1.1,
+          -0.352
+        ],
+        [
+          0.968,
+          -0.088
+        ],
+        [
+          1.012,
+          -0.352
+        ],
+        [
+          0.792,
+          -0.263999
+        ],
+        [
+          1.012,
+          -0.484
+        ],
+        [
+          0.748,
+          -0.22
+        ],
+        [
+          0.572,
+          -0.44
+        ],
+        [
+          0.572,
+          -0.308001
+        ],
+        [
+          0.616,
+          -0.264
+        ],
+        1,
+        [
+          0.088000000000001,
+          -0.044
+        ],
+        [
+          -0.088000000000001,
+          -0.616
+        ],
+        [
+          -0.836,
+          -1.144
+        ],
+        [
+          -1.408,
+          -1.407999,
+          "J"
+        ],
+        [
+          -2.332,
+          -1.804,
+          "j"
+        ],
+        [
+          -2.992,
+          -0.923999,
+          "L"
+        ],
+        [
+          -4.62,
+          0.396
+        ],
+        [
+          -2.992,
+          1.452
+        ],
+        [
+          -1.672,
+          2.024,
+          "f"
+        ],
+        [
+          -1.232,
+          2.684001
+        ],
+        [
+          -0.528,
+          1.892
+        ],
+        [
+          -0.176,
+          2.2
+        ],
+        [
+          -0.043999999999997,
+          3.256
+        ],
+        [
+          0,
+          1.672
+        ],
+        [
+          -0.043999999999997,
+          3.828
+        ],
+        [
+          0,
+          3.124
+        ],
+        [
+          0,
+          2.948
+        ],
+        [
+          0,
+          2.64
+        ],
+        [
+          0,
+          4.004002
+        ],
+        [
+          0,
+          3.74
+        ],
+        [
+          0,
+          3.256001
+        ],
+        [
+          0,
+          4.179998
+        ],
+        [
+          0,
+          2.948
+        ],
+        [
+          -0.043999999999997,
+          2.992002
+        ],
+        [
+          -0.088000000000001,
+          3.739998
+        ],
+        [
+          -0.088000000000001,
+          5.279999
+        ],
+        [
+          -0.132,
+          4.399998
+        ],
+        [
+          -0.22,
+          4.091999
+        ],
+        [
+          -0.22,
+          3.52
+        ],
+        [
+          -0.44,
+          4.444
+        ],
+        [
+          -0.396,
+          2.859997
+        ],
+        [
+          -0.308,
+          3.079998
+        ],
+        [
+          -0.484,
+          3.696014
+        ],
+        [
+          -0.352,
+          2.596001
+        ],
+        [
+          -0.308,
+          2.332001
+        ],
+        [
+          -0.264,
+          2.068008
+        ],
+        [
+          -0.44,
+          2.816002
+        ],
+        [
+          -0.352,
+          2.419998
+        ],
+        [
+          -0.264,
+          3.124008
+        ],
+        [
+          -0.44,
+          2.683998
+        ],
+        [
+          -0.396,
+          2.551994
+        ],
+        [
+          -0.308,
+          2.463997
+        ],
+        [
+          -0.176,
+          1.935997
+        ],
+        [
+          -0.22,
+          1.364006
+        ],
+        [
+          -0.132,
+          1.276009
+        ],
+        [
+          -0.22,
+          1.23201
+        ],
+        [
+          -0.176,
+          1.584
+        ],
+        [
+          -0.132,
+          0.967995
+        ],
+        [
+          -0.132,
+          0.924004
+        ],
+        [
+          -0.088000000000001,
+          0.748001
+        ],
+        [
+          -0.176,
+          0.835999
+        ],
+        [
+          -0.176,
+          1.056
+        ],
+        [
+          -0.132,
+          0.660004,
+          "D"
+        ],
+        [
+          -0.132,
+          0.44001
+        ],
+        [
+          -0.043999999999997,
+          0.219994
+        ],
+        [
+          -0.088000000000001,
+          0.087997000000001
+        ],
+        1,
+        [
+          -0.132,
+          0.043998999999999,
+          "F"
+        ],
+        [
+          -0.176,
+          -0.175995
+        ],
+        [
+          -0.308,
+          -0.704002
+        ],
+        [
+          -0.88,
+          -2.156006,
+          "l"
+        ],
+        [
+          -0.88,
+          -2.156006
+        ],
+        [
+          -0.792,
+          -3.167999
+        ],
+        [
+          -0.66,
+          -3.299995
+        ],
+        [
+          -0.704,
+          -3.431999
+        ],
+        [
+          -0.968,
+          -3.652,
+          "d"
+        ],
+        [
+          -0.792,
+          -2.155998
+        ],
+        [
+          -0.66,
+          -1.715996
+        ],
+        [
+          -0.836,
+          -1.364006
+        ],
+        [
+          -1.232,
+          -1.231995
+        ],
+        [
+          -0.924,
+          -0.572006
+        ],
+        [
+          -1.188,
+          -0.748009
+        ],
+        [
+          -0.924,
+          -0.307999
+        ],
+        [
+          -0.836,
+          -0.131996
+        ],
+        [
+          -0.836
+        ],
+        [
+          -0.66,
+          0.131996
+        ],
+        [
+          -0.66,
+          0.219994
+        ],
+        [
+          -0.308,
+          0.043998999999999
+        ],
+        [
+          -0.176
+        ],
+        [
+          -0.088000000000001
+        ],
+        2,
+        [
+          -0.088000000000001,
+          0.131996
+        ],
+        [
+          -0.088000000000001,
+          0.528008
+        ],
+        [
+          0,
+          1.099998
+        ],
+        [
+          0.088000000000001,
+          1.011993,
+          "J"
+        ],
+        [
+          0.88,
+          1.144005,
+          "jR"
+        ],
+        [
+          1.76,
+          1.584
+        ],
+        [
+          0.88,
+          0.704002
+        ],
+        [
+          0.704,
+          0.307999
+        ],
+        [
+          0.924,
+          0.043998999999999,
+          "f"
+        ],
+        [
+          1.408,
+          -0.61599699999999
+        ],
+        [
+          1.32,
+          -1.23201
+        ],
+        [
+          1.1,
+          -1.408005
+        ],
+        [
+          0.836,
+          -1.496002
+        ],
+        [
+          0.792,
+          -1.980003
+        ],
+        [
+          0.792,
+          -2.728012
+        ],
+        [
+          0.352,
+          -2.244003
+        ],
+        [
+          0.043999999999997,
+          -1.848,
+          "L",
+          0,
+          0
+        ],
+        [
+          -0.132,
+          -1.188004,
+          "r"
+        ],
+        [
+          -0.572,
+          -1.012001
+        ],
+        [
+          -0.616,
+          0.307999
+        ],
+        [
+          -1.012,
+          1.540009
+        ],
+        [
+          -0.352,
+          0.968002
+        ],
+        [
+          -0.484,
+          2.068001
+        ],
+        [
+          -0.088000000000001,
+          0.968002,
+          "R",
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          "l"
+        ],
+        [
+          0,
+          -0.835999
+        ],
+        [
+          0.044,
+          -2.551994
+        ],
+        [
+          0.132,
+          -3.739998
+        ],
+        [
+          0.176,
+          -4.883999
+        ],
+        [
+          0.352,
+          -9.151997
+        ],
+        [
+          0.176,
+          -7.392002
+        ],
+        [
+          0.132,
+          -7.347996
+        ],
+        [
+          0.352,
+          -7.568001
+        ],
+        [
+          0.616,
+          -11.748001
+        ],
+        [
+          0.088000000000001,
+          -7.524
+        ],
+        [
+          0.132,
+          -8.536
+        ],
+        [
+          0.308,
+          -11.704
+        ],
+        [
+          0,
+          -5.368
+        ],
+        [
+          0,
+          -10.648001
+        ],
+        [
+          0,
+          -10.604002,
+          "J"
+        ],
+        [
+          0,
+          -4.444,
+          "j"
+        ],
+        [
+          0.484,
+          -9.063999
+        ],
+        [
+          0.704,
+          -5.807999
+        ],
+        [
+          0.704,
+          -5.411995
+        ],
+        [
+          0.308,
+          -5.632
+        ],
+        [
+          0.22,
+          -3.431999
+        ],
+        [
+          0.22,
+          -2.948006
+        ],
+        [
+          0.308,
+          -2.639999
+        ],
+        [
+          0.264,
+          -3.431999
+        ],
+        [
+          0.132,
+          -2.507996
+        ],
+        [
+          0.088000000000001,
+          -2.068008
+        ],
+        [
+          0,
+          -1.584
+        ],
+        [
+          0,
+          -0.835999
+        ],
+        [
+          0,
+          -0.220001,
+          "L",
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          "",
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          "r"
+        ],
+        [
+          -0.043999999999997,
+          0.264
+        ],
+        [
+          -0.176,
+          1.936005
+        ],
+        [
+          -0.176,
+          2.860008
+        ],
+        [
+          -0.132,
+          4.048004
+        ],
+        [
+          -0.043999999999997,
+          3.211998
+        ],
+        [
+          -0.088000000000001,
+          4.091995
+        ],
+        [
+          0,
+          3.475998
+        ],
+        [
+          0.132,
+          4.223999
+        ],
+        [
+          0,
+          2.024002
+        ],
+        [
+          0,
+          3.871998
+        ],
+        [
+          0,
+          3.079998
+        ],
+        [
+          0,
+          3.52,
+          "D"
+        ],
+        [
+          -0.043999999999997,
+          3.739998
+        ],
+        [
+          -0.088000000000001,
+          4.487999
+        ],
+        [
+          -0.132,
+          3.784
+        ],
+        [
+          -0.396,
+          5.235998
+        ],
+        [
+          -0.264,
+          2.552
+        ],
+        [
+          -0.44,
+          4.708002
+        ],
+        [
+          -0.572,
+          3.476
+        ],
+        [
+          -1.32,
+          5.147999
+        ],
+        [
+          -1.32,
+          3.696001
+        ],
+        [
+          -1.584,
+          3.608,
+          "d"
+        ],
+        [
+          -1.672,
+          2.992,
+          "F"
+        ],
+        [
+          -2.024,
+          2.816
+        ],
+        [
+          -2.904,
+          3.256
+        ],
+        [
+          -2.2,
+          2.244,
+          "l"
+        ],
+        [
+          -1.672,
+          1.716
+        ],
+        [
+          -1.584,
+          1.804
+        ],
+        [
+          -0.792,
+          1.144
+        ],
+        [
+          -0.44,
+          0.748
+        ],
+        [
+          -0.22,
+          0.396
+        ],
+        6,
+        [
+          0,
+          0,
+          "S"
+        ],
+        6,
+        [
+          0,
+          -0.22
+        ],
+        [
+          0,
+          -0.264001
+        ],
+        [
+          -0.087999999999999,
+          -0.396
+        ],
+        [
+          -0.044,
+          -0.572
+        ],
+        [
+          0,
+          -0.835999
+        ],
+        [
+          -0.044,
+          -0.968
+        ],
+        [
+          0,
+          -1.276
+        ],
+        [
+          0,
+          -0.396
+        ],
+        [
+          0,
+          -0.44,
+          "s"
+        ],
+        [
+          0,
+          -0.22
+        ],
+        [
+          0,
+          -0.264
+        ],
+        [
+          0,
+          -0.352
+        ],
+        [
+          0.087999999999999,
+          -0.22
+        ],
+        [
+          0,
+          -0.132
+        ],
+        8,
+        [
+          0.087999999999999,
+          -0.088
+        ]
+      ]
+    }
+  },
+  {
+    "name": ["Unnamed", "xbccs"],
+    "weapon": "weapon_molotov",
+    "position": [-1086.9566650391, 687.603515625, 1662.1320800781],
+    "viewangles": [0.035799771547318, 47.57213973999],
+    "grenade": {
+      "run": 1,
+      "jump": true
+    }
+  },
+  {
+    "name": ["boost", "boostcc"],
+    "weapon": "weapon_molotov",
+    "position": [4.8936805725098, -103.95784759521, 1620.6702880859],
+    "viewangles": [-28.05853, 40.2496223]
+  },
+  {
+    "name": ["fakeduck", "btwcc"],
+    "weapon": "weapon_molotov",
+    "position": [397.38348388672, -327.38418579102, 1615.03125],
+    "viewangles": [-12.9865084, -120.577347],
+    "grenade": {
+      "run": 22
+    }
+  },
+  {
+    "name": ["BombSiteA -Corner", "xbccs"],
+    "weapon": "weapon_molotov",
+    "position": [-980.85559082031, 874.67224121094, 1664.3017578125],
+    "viewangles": [-19.457214355469, 48.353382110596],
+    "duck": true
+  },
+  {
+    "name": ["BoooWowost", "Boostcc"],
+    "weapon": "weapon_hegrenade",
+    "position": [-170.16860961914, 420.44454956055, 1613.03125],
+    "viewangles": [-19.740755081177, 4.9706392288208],
+    "grenade": {
+      "run": 1
+    }
+  },
+  {
+    "name": ["Back MollyNot full", "fdjcc"],
+    "weapon": "weapon_molotov",
+    "position": [-409.98547363281, -1313.8963623047, 1614.8834228516],
+    "viewangles": [-24.842323303223, 1.7194446325302],
+    "grenade": {
+      "run": 2,
+      "delay": 20,
+      "jump": true
+    }
+  },
+  {
+    "name": ["FD 30+", "btwcc"],
+    "weapon": "weapon_hegrenade",
+    "position": [913.55883789063, -1409.2474365234, 1712.03125],
+    "viewangles": [-11.720490455627, 170.07481384277],
+    "grenade": {
+      "run": 1
+    }
+  },
+  {
+    "name": ["BarrelsDuck", "ytcc"],
+    "weapon": "weapon_molotov",
+    "position": [385.38821411133, 1461.7155761719, 1687.03125],
+    "viewangles": [-15.162309646606, -156.37062072754],
+    "duck": true
+  },
+  {
+    "name": ["CarFAKEDUCK 1W", "bccc"],
+    "weapon": "weapon_molotov",
+    "position": [-127.39473724365, 911.87744140625, 1683.8355712891],
+    "viewangles": [-14.886140823364, 124.93361663818],
+    "grenade": {
+      "run": 45,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["Back of A", "bdccbx"],
+    "weapon": "weapon_molotov",
+    "position": [27.853260040283, 1673.1597900391, 1688.03125],
+    "viewangles": [-85.74199, 175.6909],
+    "grenade": {
+      "run": 7,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "sdccc"],
+    "weapon": "weapon_molotov",
+    "position": [1272.7333984375, 875.70941162109, 1623.7524414063],
+    "viewangles": [-24.45108795166, -142.84756469727],
+    "grenade": {
+      "run": 1
+    }
+  },
+  {
+    "name": ["Unnamed", "bxcc"],
+    "weapon": "weapon_molotov",
+    "position": [1375.6721191406, 549.775390625, 1613.0262451172],
+    "viewangles": [-18.410747528076, -176.0177154541],
+    "grenade": {
+      "run": 1
+    }
+  },
+  {
+    "name": ["Unnamed", "bxcc"],
+    "weapon": "weapon_hegrenade",
+    "position": [1456.0675048828, 546.11804199219, 1613.03125],
+    "viewangles": [-19.516719818115, -176.66554260254],
+    "grenade": {
+      "run": 18
+    }
+  },
+  {
+    "name": ["Unnamed", "ConnectorCC"],
+    "weapon": "weapon_hegrenade",
+    "position": [590.83929443359, -55.968521118164, 1686.3923339844],
+    "viewangles": [-11.711410522461, 164.49169921875],
+    "grenade": {
+      "run": 3
+    }
+  },
+  {
+    "name": ["Unnamed", "jzcc"],
+    "weapon": "weapon_molotov",
+    "position": [-831.60577392578, 91.675437927246, 1619.4301757813],
+    "viewangles": [-1.0338525772095, -0.81117105484009],
+    "grenade": {
+      "run": 3,
+      "recovery_jump": true,
+      "recovery_yaw": 180,
+      "run_yaw": 90
+    }
+  },
+  {
+    "name": ["Unnamed", "Connectorcc"],
+    "weapon": "weapon_molotov",
+    "position": [590.86657714844, -55.900562286377, 1686.3564453125],
+    "viewangles": [-17.576118469238, 164.43269348145]
+  },
+  {
+    "name": ["Unnamed", "ytcc"],
+    "weapon": "weapon_hegrenade",
+    "position": [78.011032104492, 194.97276306152, 1613.03125],
+    "viewangles": [8.02769947052, 112.09703063965],
+    "grenade": {
+      "run": 36,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "ytccus"],
+    "weapon": "weapon_hegrenade",
+    "position": [-5.5775752067566, 383.70373535156, 1613.0402832031],
+    "viewangles": [10.614367485046, 72.818367004395],
+    "grenade": {
+      "run": 14,
+      "run_yaw": 89,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "3LCC"],
+    "weapon": "weapon_molotov",
+    "position": [586.64495849609, -1464.8454589844, 1648.03125],
+    "viewangles": [-3.2772827148438, 144.71087646484],
+    "grenade": {
+      "run": 2,
+      "delay": 3,
+      "run_yaw": 96,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Here", "bccc"],
+    "weapon": "weapon_molotov",
+    "position": [453.97009277344, 1525.5887451172, 1687.03125],
+    "viewangles": [-23.604593276978, -161.00524902344],
+    "grenade": {
+      "run": 1
+    }
+  },
+  {
+    "name": ["Here", "bccc"],
+    "weapon": "weapon_molotov",
+    "position": [-214.45445251465, 934.57800292969, 1689.7778320313],
+    "viewangles": [-70.462257385254, 171.11148071289],
+    "grenade": {
+      "run": 18,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Long A", "sdccc"],
+    "weapon": "weapon_molotov",
+    "position": [1346.9241943359, 958.74127197266, 1619.0764160156],
+    "viewangles": [-1.0031868219376, -135.76333618164],
+    "grenade": {
+      "run": 11,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Garage", "bxcc"],
+    "weapon": "weapon_molotov",
+    "position": [1366.6273193359, 577.95196533203, 1613.0177001953],
+    "viewangles": [3.2938706874847, -174.08850097656],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["here", "ytcc"],
+    "weapon": "weapon_molotov",
+    "position": [90.618309020996, 257.1057434082, 1614.09375],
+    "viewangles": [-29.98804473877, 124.62944030762],
+    "grenade": {
+      "run": 21
+    }
+  },
+  {
+    "name": ["here", "ytcc"],
+    "weapon": "weapon_hegrenade",
+    "position": [86.253898620605, 166.07989501953, 1613.03125],
+    "viewangles": [7.7316155433655, 111.77610778809],
+    "grenade": {
+      "run": 32,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Middle", "ytcc"],
+    "weapon": "weapon_molotov",
+    "position": [65.048286437988, 280.87612915039, 1613.03125],
+    "viewangles": [-24.312871932983, 123.89631652832],
+    "grenade": {
+      "run": 14
+    }
+  },
+  {
+    "name": ["Squeaky", "axcc"],
+    "weapon": "weapon_molotov",
+    "position": [285.90966796875, 2105.9670410156, 1688.03125],
+    "viewangles": [-15.959914207458, -140.46157836914],
+    "duck": true
+  },
+  {
+    "name": ["Here", "xpcc"],
+    "weapon": "weapon_molotov",
+    "position": [-876.42071533203, 1007.0017700195, 1762.03125],
+    "viewangles": [-68.585571289063, -11.04222869873],
+    "grenade": {
+      "run": 14,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "ytcc"],
+    "weapon": "weapon_molotov",
+    "position": [116.26432800293, 208.61405944824, 1613.03125],
+    "viewangles": [0.87946724891663, 123.52831268311],
+    "grenade": {
+      "run": 17,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "sdccc"],
+    "weapon": "weapon_molotov",
+    "position": [1328.9204101563, 842.23083496094, 1624.6979980469],
+    "viewangles": [1.0141458511353, -144.80445861816],
+    "grenade": {
+      "run": 4,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "jzespcc"],
+    "weapon": "weapon_molotov",
+    "position": [201.62393188477, 467.70349121094, 1613.03125],
+    "viewangles": [-16.064943313599, -156.6969909668]
+  },
+  {
+    "name": ["Unnamed", "jzespcc"],
+    "weapon": "weapon_hegrenade",
+    "position": [201.630859375, 467.70645141602, 1613.03125],
+    "viewangles": [-16.064943313599, -156.6969909668],
+    "grenade": {
+      "run": 4
+    }
+  },
+  {
+    "name": ["Unnamed", "btwcc"],
+    "weapon": "weapon_molotov",
+    "position": [926.79992675781, -1253.6911621094, 1613.03125],
+    "viewangles": [-23.950794219971, 178.43830871582],
+    "grenade": {
+      "run": 1
+    }
+  },
+  {
+    "name": ["Unnamed", "connectorcc"],
+    "weapon": "weapon_molotov",
+    "position": [1322.4831542969, 638.08770751953, 1612.8977050781],
+    "viewangles": [1.4261028766632, -166.32278442383],
+    "grenade": {
+      "run": 20,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "jzespcc"],
+    "weapon": "weapon_molotov",
+    "position": [130.6527557373, 467.11053466797, 1613.03125],
+    "viewangles": [-18.030115127563, -154.18472290039]
+  },
+  {
+    "name": ["Unnamed", "ytcc"],
+    "weapon": "weapon_molotov",
+    "position": [86.512344360352, 279.06097412109, 1613.03125],
+    "viewangles": [3.1997120380402, 124.11527252197],
+    "grenade": {
+      "run": 23,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "2fcc"],
+    "weapon": "weapon_molotov",
+    "position": [86.513145446777, 278.98248291016, 1613.03125],
+    "viewangles": [-4.8854184150696, 124.44519805908],
+    "grenade": {
+      "run": 25,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "ytcc"],
+    "description": "NOT FULL",
+    "weapon": "weapon_molotov",
+    "position": [115.97164154053, -144.21607971191, 1616.1837158203],
+    "viewangles": [-22.935018539429, 106.79044342041],
+    "grenade": {
+      "run": 9
+    }
+  },
+  {
+    "name": ["Unnamed", "cccc"],
+    "weapon": "weapon_molotov",
+    "position": [-196.47242736816, 998.38830566406, 1687.03125],
+    "viewangles": [-10.394986152649, 60.234622955322],
+    "grenade": {
+      "run": 26
+    }
+  },
+  {
+    "name": ["Unnamed", "2FCCCC"],
+    "weapon": "weapon_molotov",
+    "position": [495.14324951172, -69.054252624512, 1782.4576416016],
+    "viewangles": [-10.934965133667, 91.480888366699],
+    "grenade": {
+      "run": 3,
+      "delay": 7,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "jzespcc"],
+    "weapon": "weapon_molotov",
+    "position": [680.83856201172, 557.02697753906, 1613.03125],
+    "viewangles": [-19.415004730225, -162.35021972656],
+    "grenade": {
+      "run": 6
+    }
+  },
+  {
+    "name": ["Unnamed", "ckcc"],
+    "weapon": "weapon_molotov",
+    "position": [605.22082519531, -147.42549133301, 1692.0225830078],
+    "viewangles": [-17.480030059814, 157.68977355957]
+  },
+  {
+    "name": ["Unnamed", "bdccbx"],
+    "weapon": "weapon_molotov",
+    "position": [-2.0549342632294, 253.18896484375, 1613.03125],
+    "viewangles": [-26.170307159424, 99.834815979004],
+    "grenade": {
+      "run": 12,
+      "run_speed": true,
+      "recovery_yaw": -34
+    }
+  },
+  {
+    "name": ["Unnamed", "Boostcc"],
+    "weapon": "weapon_molotov",
+    "position": [-120.22412872314, 424.90908813477, 1613.03125],
+    "viewangles": [-29.085220336914, 5.6049337387085],
+    "grenade": {
+      "run": 1,
+      "run_speed": true,
+      "run_yaw": 180
+    }
+  },
+  {
+    "name": ["Unnamed", "Boostcc"],
+    "weapon": "weapon_molotov",
+    "position": [10.052393913269, -148.96875, 1619.1214599609],
+    "viewangles": [-33.265254974365, 50.590362548828],
+    "grenade": {
+      "run": 8
+    }
+  },
+  {
+    "name": ["Unnamed", "jzespcc"],
+    "weapon": "weapon_molotov",
+    "position": [902.44097900391, 631.22497558594, 1827.6644287109],
+    "viewangles": [-6.9202499389648, -161.87475585938],
+    "grenade": {
+      "run": 6
+    }
+  },
+  {
+    "name": ["Unnamed", "jzespcc"],
+    "description": "FULL DMG",
+    "weapon": "weapon_hegrenade",
+    "position": [660.7900390625, 534.45660400391, 1613.03125],
+    "viewangles": [-15.894988059998, -163.83512878418],
+    "grenade": {
+      "run": 22
+    }
+  },
+  {
+    "name": ["Unnamed", "bxhcc"],
+    "weapon": "weapon_molotov",
+    "position": [-845.94635009766, 93.827278137207, 1614.0477294922],
+    "viewangles": [-15.344911575317, 16.623996734619],
+    "grenade": {
+      "run": 1,
+      "run_speed": true,
+      "run_yaw": 180
+    }
+  },
+  {
+    "name": ["Unnamed", "bccc"],
+    "weapon": "weapon_molotov",
+    "position": [-140.00010681152, 998.89721679688, 1687.0313720703],
+    "viewangles": [-68.585037231445, -178.59483337402],
+    "grenade": {
+      "run": 21,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "2fcc"],
+    "description": "MEGA UNSAFE",
+    "weapon": "weapon_molotov",
+    "position": [-80.352989196777, 982.89105224609, 1687.03125],
+    "viewangles": [4.1250996589661, 85.869659423828],
+    "grenade": {
+      "run": 12
+    }
+  },
+  {
+    "name": ["Unnamed", "dxccC"],
+    "weapon": "weapon_molotov",
+    "position": [37.58642578125, 314.04858398438, 1613.0627441406],
+    "viewangles": [-28.214841842651, 115.24329376221],
+    "grenade": {
+      "run": 7,
+      "run_speed": true,
+      "run_yaw": 180
+    }
+  },
+  {
+    "name": ["Unnamed", "bxhcc"],
+    "weapon": "weapon_hegrenade",
+    "position": [-845.96527099609, 93.872833251953, 1614.03125],
+    "viewangles": [-15.125101089478, 16.564464569092]
+  },
+  {
+    "name": ["Unnamed", "lmcc"],
+    "weapon": "weapon_molotov",
+    "position": [-1010.211730957, 900.81427001953, 1667.4127197266],
+    "viewangles": [-19.415157318115, 41.919746398926],
+    "grenade": {
+      "run": 5
+    }
+  },
+  {
+    "name": ["Z", "Boostcc"],
+    "weapon": "weapon_molotov",
+    "position": [-611.41680908203, 140.02716064453, 1656.6701660156],
+    "viewangles": [-22.298892974854, 16.310651779175],
+    "grenade": {
+      "run": 7
+    }
+  },
+  {
+    "name": ["Unnamed", "sdccc"],
+    "weapon": "weapon_hegrenade",
+    "position": [1412.9134521484, 974.94982910156, 1619.6088867188],
+    "viewangles": [-0.30995798110962, -142.95365905762],
+    "grenade": {
+      "run": 30,
+      "delay": 5,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "jzcc"],
+    "weapon": "weapon_hegrenade",
+    "position": [-925.56530761719, -32.486679077148, 1614.03125],
+    "viewangles": [11.352018356323, 48.726024627686],
+    "grenade": {
+      "run": 20,
+      "recovery_jump": true,
+      "recovery_yaw": -90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "jzcc"],
+    "weapon": "weapon_molotov",
+    "position": [-925.56579589844, -32.487213134766, 1614.03125],
+    "viewangles": [11.352018356323, 48.726024627686],
+    "grenade": {
+      "run": 20,
+      "recovery_jump": true,
+      "recovery_yaw": -90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "2Fcc"],
+    "weapon": "weapon_molotov",
+    "position": [110.1315536499, 290.22171020508, 1613.03125],
+    "viewangles": [-5.3044633865356, 126.13059997559],
+    "grenade": {
+      "run": 29,
+      "recovery_yaw": -90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "bccc"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-901.35833740234, -506.23678588867, 1614.03125],
+    "viewangles": [-2.8379998207092, 89.827819824219],
+    "grenade": {
+      "run": 10
+    }
+  },
+  {
+    "name": ["Unnamed", "bxcc"],
+    "weapon": "weapon_molotov",
+    "position": [669.69732666016, 577.60589599609, 1613.03125],
+    "viewangles": [16.625352859497, 176.55976867676],
+    "grenade": {
+      "run": 34,
+      "recovery_jump": true,
+      "run_yaw": 40,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "bxcc"],
+    "weapon": "weapon_molotov",
+    "position": [508.36151123047, 560.39068603516, 1613.03125],
+    "viewangles": [17.800048828125, 167.55067443848],
+    "grenade": {
+      "run": 21,
+      "recovery_jump": true,
+      "run_yaw": 89,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "xpcc"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1073.9771728516, 1058.1563720703, 1686.2142333984],
+    "viewangles": [-0.88025641441345, 8.6817464828491],
+    "grenade": {
+      "run": 18,
+      "recovery_jump": true,
+      "recovery_yaw": -90
+    }
+  },
+  {
+    "name": ["Unnamed", "XBCCS"],
+    "description": "Safe",
+    "weapon": "weapon_hegrenade",
+    "position": [-1029.3314208984, 841.21417236328, 1660.2979736328],
+    "viewangles": [-18.040191650391, 46.632278442383],
+    "grenade": {
+      "run": 5
+    }
+  },
+  {
+    "name": ["Unnamed", "bxcc"],
+    "weapon": "weapon_molotov",
+    "position": [1019.6521606445, 516.03723144531, 1735.2517089844],
+    "viewangles": [-9.5701675415039, -176.84460449219],
+    "duck": true
+  },
+  {
+    "name": ["Unnamed", "sdccc"],
+    "weapon": "weapon_molotov",
+    "position": [973.94805908203, 612.53540039063, 1773.0959472656],
+    "viewangles": [-16.390045166016, -141.6748046875],
+    "duck": true
+  },
+  {
+    "name": ["Unnamed", "sdccc"],
+    "weapon": "weapon_molotov",
+    "position": [584.97882080078, 710.42987060547, 1779.6613769531],
+    "viewangles": [-13.309934616089, -115.68392181396]
+  },
+  {
+    "name": ["Unnamed", "sdccc"],
+    "description": "safe [-30]",
+    "weapon": "weapon_hegrenade",
+    "position": [605.21752929688, -148.96807861328, 1692.1815185547],
+    "viewangles": [-23.210178375244, 178.58586120605],
+    "grenade": {
+      "strength": 0.5
+    }
+  },
+  {
+    "name": ["Unnamed", "sdccc"],
+    "weapon": "weapon_molotov",
+    "position": [605.22064208984, -142.11479187012, 1691.4737548828],
+    "viewangles": [-19.910192489624, -177.92370605469]
+  },
+  {
+    "name": ["Unnamed", "GDCC"],
+    "description": "unsafe",
+    "weapon": "weapon_hegrenade",
+    "position": [-925.47491455078, 310.33758544922, 1614.03125],
+    "viewangles": [5.289999961853, -11.899225234985],
+    "grenade": {
+      "run": 18,
+      "recovery_yaw": 90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "bxcc"],
+    "weapon": "weapon_hegrenade",
+    "position": [1013.0668334961, 516.03100585938, 1739.8941650391],
+    "viewangles": [-9.67005443573, -177.11097717285],
+    "grenade": {
+      "run": 4
+    },
+    "duck": true
+  },
+  {
+    "name": ["Unnamed", "boostcc"],
+    "description": "Down",
+    "weapon": "weapon_hegrenade",
+    "position": [-304.48986816406, 433.78118896484, 1613.2404785156],
+    "viewangles": [5.0698218345642, 4.0257487297058],
+    "grenade": {
+      "run": 8,
+      "recovery_yaw": 90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "bccc"],
+    "description": "unsafe",
+    "weapon": "weapon_molotov",
+    "position": [733.94555664063, 1689.7373046875, 1702.03125],
+    "viewangles": [-10.440158843994, -162.23330688477],
+    "grenade": {
+      "run": 20
+    }
+  },
+  {
+    "name": ["Z", "Boostcc"],
+    "weapon": "weapon_molotov",
+    "position": [-611.41680908203, 140.02716064453, 1656.6701660156],
+    "viewangles": [-22.298892974854, 16.310651779175],
+    "grenade": {
+      "run": 7
+    }
+  },
+  {
+    "name": ["Truck", "sdcc"],
+    "weapon": "weapon_molotov",
+    "position": [-886.72509765625, 903.31939697266, 1726.0517578125],
+    "viewangles": [-18.981481552124, 67.845420837402],
+    "grenade": {
+      "run": 3
+    }
+  },
+  {
+    "name": ["Middle", "bccc"],
+    "weapon": "weapon_molotov",
+    "position": [35.270046234131, 454.22512817383, 1757.6453857422],
+    "viewangles": [-19.831901550293, 151.13330078125]
+  },
+  {
+    "name": ["here", "btwcc"],
+    "weapon": "weapon_molotov",
+    "position": [806.52398681641, -1246.5036621094, 1614.1964111328],
+    "viewangles": [-23.699928283691, 177.82098388672]
+  },
+  {
+    "name": ["here", "sxcc"],
+    "weapon": "weapon_molotov",
+    "position": [-117.24098205566, 456.32397460938, 1614.1999511719],
+    "viewangles": [-23.157342910767, 3.177707195282],
+    "grenade": {
+      "run": 1,
+      "run_speed": true
+    }
+  },
+  {
+    "name": ["here", "lmcc"],
+    "weapon": "weapon_molotov",
+    "position": [-982.15338134766, 971.21630859375, 1676.8360595703],
+    "viewangles": [-18.033867, 41.925247],
+    "grenade": {
+      "run": 11
+    }
+  },
+  {
+    "name": ["here", "bxcc"],
+    "weapon": "weapon_molotov",
+    "position": [605.20599365234, -148.96899414063, 1690.1789550781],
+    "viewangles": [-3.7959063053131, 135.54974365234],
+    "grenade": {
+      "fov": 5.12
+    }
+  },
+  {
+    "name": ["Bombsite A", "bccc"],
+    "weapon": "weapon_molotov",
+    "position": [-19.68074798584, 1914.7055664063, 1687.03125],
+    "viewangles": [-20.456790924072, -134.7261505127]
+  },
+  {
+    "name": ["A Ramp", "bccc"],
+    "weapon": "weapon_molotov",
+    "position": [-62.8037109375, 1053.3615722656, 1700.9998779297],
+    "viewangles": [-2.5949068069458, -179.57090759277],
+    "grenade": {
+      "strength": 0.5,
+      "run": 1,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Middle", "bdccbx"],
+    "weapon": "weapon_molotov",
+    "position": [17.718852996826, 204.45747375488, 1613.03125],
+    "viewangles": [-17.84531211853, 101.83406066895],
+    "grenade": {
+      "run": 1
+    }
+  },
+  {
+    "name": ["boost", "Boostcc"],
+    "weapon": "weapon_molotov",
+    "position": [16.106918334961, -117.70628356934, 1619.11328125],
+    "viewangles": [-28.85053062439, 39.589622497559]
+  },
+  {
+    "name": ["BoooWowost", "Boostcc"],
+    "weapon": "weapon_hegrenade",
+    "position": [-137.36831665039, 441.38787841797, 1613.03125],
+    "viewangles": [-18.354755401611, 4.046639919281],
+    "grenade": {
+      "run": 1
+    }
+  },
+  {
+    "name": ["Unnamed", "bccc"],
+    "description": "HOLD CTRL\/DUCK",
+    "weapon": "weapon_molotov",
+    "position": [409.94152832031, 1522.0328369141, 1687.03125],
+    "viewangles": [-22.664241790771, -163.91323852539],
+    "grenade": {
+      "run": 27
+    },
+    "duck": true
+  },
+  {
+    "name": ["Unnamed", "bccc"],
+    "description": "UNSAFE",
+    "weapon": "weapon_hegrenade",
+    "position": [453.54235839844, 1527.6627197266, 1687.03125],
+    "viewangles": [10.225762367249, -161.38090515137],
+    "grenade": {
+      "run": 11,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "bdccbx"],
+    "description": "unsafe",
+    "weapon": "weapon_hegrenade",
+    "position": [-980.73828125, 911.81799316406, 1668.7379150391],
+    "viewangles": [-16.829246520996, 32.064674377441],
+    "grenade": {
+      "run": 8,
+      "run_yaw": 48
+    }
+  },
+  {
+    "name": ["Unnamed", "bccc"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-822.33673095703, 42.800937652588, 1620.03125],
+    "viewangles": [-3.8939995765686, 94.97583770752]
+  },
+  {
+    "name": ["Unnamed", "2fcc"],
+    "weapon": "weapon_molotov",
+    "position": [756.54486083984, 659.64538574219, 1836.4329833984],
+    "viewangles": [-44.320190429688, 148.67579650879],
+    "grenade": {
+      "run": 28,
+      "recovery_jump": true,
+      "recovery_yaw": -90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "dxcc"],
+    "weapon": "weapon_molotov",
+    "position": [-616.94842529297, -579.56127929688, 1759.5651855469],
+    "viewangles": [-13.133996963501, -29.783756256104],
+    "grenade": {
+      "run": 8,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["Unnamed", "Boostcc"],
+    "weapon": "weapon_hegrenade",
+    "position": [-627.87030029297, 149.77635192871, 1651.2562255859],
+    "viewangles": [5.4394373893738, 14.532427787781],
+    "grenade": {
+      "run": 23,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "CKCC"],
+    "weapon": "weapon_hegrenade",
+    "position": [1531.5297851563, 714.02716064453, 1612.7115478516],
+    "viewangles": [-10.648007392883, -165.49591064453],
+    "grenade": {
+      "run": 90,
+      "delay": 10,
+      "jump": true
+    }
+  }
+],
+"de_canals":[
+  {
+    "name": ["Unnamed", "baodianyuanyun"],
+    "weapon": "weapon_molotov",
+    "position": [-83.755348205566, -1836.5811767578, 64.031280517578],
+    "viewangles": [-30.971599578857, 59.844841003418],
+    "grenade": {
+      "run": 1,
+      "run_speed": true
+    }
+  },
+  {
+    "name": ["Unnamed", "baodianjinyun"],
+    "weapon": "weapon_molotov",
+    "position": [-83.755348205566, -1836.5811767578, 64.031280517578],
+    "viewangles": [-25.889600753784, 54.630786895752]
+  },
+  {
+    "name": ["Unnamed", "abaodianyun"],
+    "weapon": "weapon_molotov",
+    "position": [-621.17053222656, -1634.4638671875, 64.03125],
+    "viewangles": [15.228491783142, 109.33102416992],
+    "grenade": {
+      "run": 24,
+      "recovery_jump": true,
+      "run_yaw": 60,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "jinyun"],
+    "weapon": "weapon_molotov",
+    "position": [1267.3953857422, -668.66906738281, 65.03125],
+    "viewangles": [-43.577503204346, -140.69137573242]
+  },
+  {
+    "name": ["Unnamed", "jinyun"],
+    "weapon": "weapon_molotov",
+    "position": [1058.0975341797, -704.15173339844, 65.03125],
+    "viewangles": [-37.527400970459, -100.95965576172],
+    "grenade": {
+      "strength": 0.5,
+      "run": 4
+    }
+  },
+  {
+    "name": ["Unnamed", "baodianyuanyun"],
+    "weapon": "weapon_hegrenade",
+    "position": [1058.0975341797, -704.15173339844, 65.03125],
+    "viewangles": [-37.527400970459, -100.95965576172],
+    "grenade": {
+      "strength": 0.5,
+      "run": 4
+    }
+  },
+  {
+    "name": ["Unnamed", "yangtaipeekyun"],
+    "weapon": "weapon_hegrenade",
+    "position": [1267.3953857422, -668.66906738281, 65.03125],
+    "viewangles": [-43.577503204346, -140.69137573242]
+  },
+  {
+    "name": ["Unnamed", "ABAODIANYUN"],
+    "weapon": "weapon_hegrenade",
+    "position": [-621.17053222656, -1634.4638671875, 64.03125],
+    "viewangles": [15.228491783142, 109.33102416992],
+    "grenade": {
+      "run": 24,
+      "recovery_jump": true,
+      "run_yaw": 60,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "baodianjinyun"],
+    "weapon": "weapon_hegrenade",
+    "position": [-83.755348205566, -1836.5811767578, 64.031280517578],
+    "viewangles": [-25.889600753784, 54.630786895752],
+    "grenade": {
+      "run": 1
+    }
+  },
+  {
+    "name": ["Unnamed", "baodianjinyun"],
+    "weapon": "weapon_hegrenade",
+    "position": [-83.755348205566, -1836.5811767578, 64.031280517578],
+    "viewangles": [-30.971599578857, 59.844841003418],
+    "grenade": {
+      "run": 4
+    }
+  },
+  {
+    "name": ["Unnamed", "yuanyun"],
+    "weapon": "weapon_hegrenade",
+    "position": [1044.3402099609, -872.95739746094, 91.342430114746],
+    "viewangles": [-31.023929595947, -104.62013244629],
+    "grenade": {
+      "run": 4
+    }
+  },
+  {
+    "name": ["Unnamed", "jinyun"],
+    "weapon": "weapon_hegrenade",
+    "position": [1044.3402099609, -872.95739746094, 91.342430114746],
+    "viewangles": [-20.661937713623, -104.62014007568]
+  },
+  {
+    "name": ["Unnamed", "yuanyun"],
+    "weapon": "weapon_molotov",
+    "position": [1044.3402099609, -872.95739746094, 91.342430114746],
+    "viewangles": [-31.023929595947, -104.62013244629],
+    "grenade": {
+      "run": 4
+    }
+  },
+  {
+    "name": ["Unnamed", "jinyun"],
+    "weapon": "weapon_molotov",
+    "position": [1044.3402099609, -872.95739746094, 91.342430114746],
+    "viewangles": [-20.661937713623, -104.62014007568]
+  }
+],
+"cs_italy":[
+  {
+    "name": ["Alley", "qjd"],
+    "weapon": "weapon_molotov",
+    "position": [-1465.6932373047, 177.13087463379, -159.13429260254],
+    "viewangles": [-19.873666763306, 63.353412628174],
+    "grenade": {
+      "run": 10
+    }
+  },
+  {
+    "name": ["Alley", "qyd"],
+    "weapon": "weapon_molotov",
+    "position": [-1396.6763916016, 186.04345703125, -159.48246765137],
+    "viewangles": [-33.971202850342, 69.919921875],
+    "grenade": {
+      "run": 10
+    }
+  },
+  {
+    "name": ["Tunnel", "xx"],
+    "weapon": "weapon_molotov",
+    "position": [232.64221191406, 158.80474853516, -151.27409362793],
+    "viewangles": [-14.341239929199, 34.713165283203],
+    "grenade": {
+      "run": 20
+    }
+  },
+  {
+    "name": ["Inside", "q"],
+    "weapon": "weapon_hegrenade",
+    "position": [-505.38668823242, 1217.3654785156, -55.96875],
+    "viewangles": [-10.006205558777, 118.07774353027],
+    "grenade": {
+      "run": 17,
+      "recovery_yaw": -90
+    }
+  },
+  {
+    "name": ["Inside", "q"],
+    "weapon": "weapon_molotov",
+    "position": [-514.70520019531, 1212.6889648438, -55.96875],
+    "viewangles": [-10.688453674316, 114.89503479004],
+    "grenade": {
+      "run": 17,
+      "recovery_yaw": -90
+    }
+  },
+  {
+    "name": ["Mid", "ltjd"],
+    "weapon": "weapon_molotov",
+    "position": [-272.75549316406, 848.13323974609, -151.10636901855],
+    "viewangles": [-1.2504251003265, 74.173538208008],
+    "grenade": {
+      "run": 9,
+      "recovery_yaw": 89,
+      "jump": true
+    }
+  },
+  {
+    "name": ["here", "qyd"],
+    "weapon": "weapon_molotov",
+    "position": [-1519.96875, 417.61517333984, 9.03125],
+    "viewangles": [6.7092390060425, 55.57039642334],
+    "grenade": {
+      "run": 1,
+      "jump": true
+    }
+  },
+  {
+    "name": ["1w", "ljt"],
+    "weapon": "weapon_molotov",
+    "position": [-67.733947753906, -493.96875, -150.96875],
+    "viewangles": [-0.0550008565, 142.975037]
+  },
+  {
+    "name": ["1w", "ljt"],
+    "weapon": "weapon_hegrenade",
+    "position": [-67.733947753906, -493.96875, -150.96875],
+    "viewangles": [-0.0550008565, 142.975037]
+  },
+  {
+    "name": ["Unnamed", "3l"],
+    "weapon": "weapon_molotov",
+    "position": [-1327.9279785156, 71.810157775879, -150.97477722168],
+    "viewangles": [-23.703773498535, 69.121772460938],
+    "grenade": {
+      "fov": 5.12,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "3ls"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1327.9279785156, 71.810157775879, -150.97477722168],
+    "viewangles": [-23.703773498535, 69.121772460938],
+    "grenade": {
+      "fov": 5.12,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "lto"],
+    "description": "unsafe",
+    "weapon": "weapon_molotov",
+    "position": [-791.93109130859, 1279.642578125, 0.03125],
+    "viewangles": [-14.922514915466, 64.524368286133],
+    "grenade": {
+      "fov": 5.12,
+      "run": 45
+    }
+  },
+  {
+    "name": ["Unnamed", "lto"],
+    "description": "unsafe",
+    "weapon": "weapon_hegrenade",
+    "position": [-791.89807128906, 1279.603515625, 0.03125],
+    "viewangles": [-15.458211898804, 64.626472473145],
+    "grenade": {
+      "fov": 5.12,
+      "run": 45
+    }
+  },
+  {
+    "name": ["Unnamed", "ltjd"],
+    "weapon": "weapon_molotov",
+    "position": [-911.94964599609, 1662.5423583984, 8.6421699523926],
+    "viewangles": [-31.349969863892, 38.667598724365],
+    "grenade": {
+      "delay": 24,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "ac"],
+    "weapon": "weapon_molotov",
+    "position": [-873.63061523438, 1628.2918701172, 0.03125],
+    "viewangles": [-36.240589141846, 50.329849243164],
+    "grenade": {
+      "delay": 25,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Team Help", "2l"],
+    "weapon": "weapon_molotov",
+    "position": [12.59640789032, 2408.1591796875, 8.03125],
+    "viewangles": [-19.243097305298, -133.01766967773],
+    "grenade": {
+      "run": 4
+    }
+  },
+  {
+    "name": ["xz", "xx"],
+    "weapon": "weapon_molotov",
+    "position": [1068.2366943359, -91.606140136719, -150.96875],
+    "viewangles": [-56.79712, 119.0584]
+  },
+  {
+    "name": ["window", "ch"],
+    "weapon": "weapon_molotov",
+    "position": [-62.550880432129, -493.96743774414, -150.90618896484],
+    "viewangles": [-12.1439838, 148.015869]
+  },
+  {
+    "name": ["pomosh'", "2l"],
+    "weapon": "weapon_molotov",
+    "position": [-181.23960876465, 2442.2033691406, 45.03125],
+    "viewangles": [-13.4639349, -131.17157]
+  },
+  {
+    "name": ["push", "q"],
+    "weapon": "weapon_molotov",
+    "position": [-497.248046875, 1173.2850341797, -54.96875],
+    "viewangles": [-8.66136551, 114.563148],
+    "grenade": {
+      "run": 20
+    }
+  },
+  {
+    "name": ["door", "q"],
+    "weapon": "weapon_molotov",
+    "position": [-551.61364746094, 1243.3145751953, -54.906188964844],
+    "viewangles": [-9.151987, 111.699944],
+    "grenade": {
+      "run": 32
+    }
+  },
+  {
+    "name": ["push", "q"],
+    "weapon": "weapon_molotov",
+    "position": [-608.34680175781, 1998.5833740234, 1.03125],
+    "viewangles": [-18.127903, -120.875961],
+    "grenade": {
+      "run": 15
+    }
+  },
+  {
+    "name": ["push", "q"],
+    "weapon": "weapon_molotov",
+    "position": [-655.96875, 1199.03125, -54.96875],
+    "viewangles": [-23.2692528, 53.498867]
+  },
+  {
+    "name": ["wall 1w", "lto"],
+    "weapon": "weapon_hegrenade",
+    "position": [-830.59149169922, 1310.8771972656, 1.03125],
+    "viewangles": [-2.96004176, 53.2350044],
+    "grenade": {
+      "run": 22
+    }
+  },
+  {
+    "name": ["wall 1w", "lto"],
+    "weapon": "weapon_molotov",
+    "position": [-830.59149169922, 1310.8771972656, 1.03125],
+    "viewangles": [-2.96004176, 53.2350044],
+    "grenade": {
+      "run": 22
+    }
+  },
+  {
+    "name": ["door", "m"],
+    "weapon": "weapon_molotov",
+    "position": [-1026.6380615234, 848.04248046875, -149.92919921875],
+    "viewangles": [-30.7679882, 56.64378]
+  },
+  {
+    "name": ["wall", "dl"],
+    "weapon": "weapon_molotov",
+    "position": [-1093.9893798828, 758.08990478516, 161.03125],
+    "viewangles": [-6.775983, 71.66806]
+  },
+  {
+    "name": ["door", "m"],
+    "weapon": "weapon_molotov",
+    "position": [-1487.95703125, 144.05354309082, -150.97282409668],
+    "viewangles": [-33.225955963135, 62.140907287598],
+    "grenade": {
+      "run": 19
+    }
+  },
+  {
+    "name": ["Unnamed", "3l"],
+    "weapon": "weapon_molotov",
+    "position": [96.293807983398, 677.61993408203, -151.96875],
+    "viewangles": [-24.490737915039, 145.03648376465],
+    "grenade": {
+      "run": 19,
+      "jump": true
+    }
+  },
+  {
+    "name": ["FDCorner", "dc"],
+    "weapon": "weapon_molotov",
+    "position": [-645.74871826172, 766.33038330078, 9.0938110351563],
+    "viewangles": [-4.31198025, -119.054619],
+    "grenade": {
+      "run": 10
+    }
+  },
+  {
+    "name": ["Ripesp", "lto"],
+    "weapon": "weapon_molotov",
+    "position": [-405.86904907227, -654.27526855469, -150.96875],
+    "viewangles": [-14.8469439, -107.735611],
+    "grenade": {
+      "run": 13
+    }
+  },
+  {
+    "name": ["save peek", "q"],
+    "weapon": "weapon_molotov",
+    "position": [47.312240600586, 705.79235839844, -158.96875],
+    "viewangles": [-17.5665359, 152.82312],
+    "grenade": {
+      "recovery_jump": true,
+      "recovery_yaw": 153
+    }
+  },
+  {
+    "name": ["Mainhouse", "zw"],
+    "weapon": "weapon_molotov",
+    "position": [-104.45181274414, 2263.2065429688, -92.849456787109],
+    "viewangles": [-23.0384369, 17.966938]
+  },
+  {
+    "name": ["Unnamed", "zw"],
+    "description": "unsafe",
+    "weapon": "weapon_molotov",
+    "position": [-911.86749267578, 1697.3757324219, 8.6671447753906],
+    "viewangles": [2.3539888858795, 34.233867645264],
+    "grenade": {
+      "run": 32,
+      "recovery_yaw": -90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "ltjd"],
+    "weapon": "weapon_molotov",
+    "position": [860.24963378906, 1605.6701660156, -34.297710418701],
+    "viewangles": [-5.939971446991, 128.78074645996],
+    "grenade": {
+      "run": 10,
+      "recovery_jump": true,
+      "recovery_yaw": 90
+    }
+  },
+  {
+    "name": ["Unnamed", "ltjd"],
+    "weapon": "weapon_hegrenade",
+    "position": [860.43957519531, 1604.8834228516, -34.350898742676],
+    "viewangles": [-6.1048603057861, 128.80572509766],
+    "grenade": {
+      "run": 10,
+      "recovery_jump": true,
+      "recovery_yaw": 90
+    }
+  },
+  {
+    "name": ["Unnamed", "dl"],
+    "weapon": "weapon_molotov",
+    "position": [-1519.8497314453, 252.35070800781, 8.03125],
+    "viewangles": [5.7752084732056, 61.069694519043],
+    "grenade": {
+      "run": 18,
+      "recovery_jump": true,
+      "recovery_yaw": 90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "dl"],
+    "weapon": "weapon_molotov",
+    "position": [-745.68865966797, 595.19482421875, 8.03125],
+    "viewangles": [-8.1974096298218, 69.451194763184],
+    "grenade": {
+      "run": 21,
+      "recovery_jump": true,
+      "recovery_yaw": 180,
+      "run_yaw": 64
+    }
+  },
+  {
+    "name": ["Unnamed", "lto"],
+    "weapon": "weapon_molotov",
+    "position": [-837.54418945313, 1155.8150634766, 0.03125],
+    "viewangles": [-7.8092374801636, 64.875381469727],
+    "grenade": {
+      "run": 26
+    }
+  },
+  {
+    "name": ["Unnamed", "lto"],
+    "weapon": "weapon_hegrenade",
+    "position": [-837.50238037109, 1155.8983154297, 0.03125],
+    "viewangles": [-8.1390590667725, 64.876609802246],
+    "grenade": {
+      "run": 26
+    }
+  },
+  {
+    "name": ["Unnamed", "zw"],
+    "weapon": "weapon_molotov",
+    "position": [-750.78576660156, 1761.0467529297, 0.03125],
+    "viewangles": [1.0461981296539, 8.651008605957],
+    "grenade": {
+      "run": 15,
+      "recovery_jump": true,
+      "run_yaw": 90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "ltjd"],
+    "weapon": "weapon_molotov",
+    "position": [63.712905883789, 811.83331298828, -159.96875],
+    "viewangles": [-2.0775272846222, 67.013084411621],
+    "grenade": {
+      "run": 25,
+      "recovery_jump": true,
+      "run_yaw": 88,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "ac"],
+    "weapon": "weapon_molotov",
+    "position": [63.766139984131, 811.72375488281, -159.97500610352],
+    "viewangles": [-3.3130514621735, 80.523872375488],
+    "grenade": {
+      "run": 19,
+      "recovery_jump": true,
+      "run_yaw": 70,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "3l"],
+    "weapon": "weapon_molotov",
+    "position": [-1112.3448486328, 32.719577789307, -159.96875],
+    "viewangles": [-33.18968963623, 52.245552062988],
+    "grenade": {
+      "run": 30,
+      "recovery_jump": true,
+      "recovery_yaw": 180,
+      "run_yaw": 90
+    }
+  },
+  {
+    "name": ["Unnamed", "ltjd"],
+    "weapon": "weapon_molotov",
+    "position": [-852.35882568359, 1673.3756103516, 0.03125],
+    "viewangles": [4.675998210907, 46.671165466309],
+    "grenade": {
+      "strength": 0.5,
+      "run": 7,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "ac"],
+    "weapon": "weapon_molotov",
+    "position": [-852.37115478516, 1673.294921875, 0.03125],
+    "viewangles": [-21.833911895752, 48.595733642578],
+    "grenade": {
+      "run": 8,
+      "run_speed": true,
+      "run_yaw": 180
+    }
+  },
+  {
+    "name": ["Unnamed", "3l"],
+    "weapon": "weapon_molotov",
+    "position": [-57.764839172363, 698.09796142578, -159.98176574707],
+    "viewangles": [-24.378273010254, 133.04350280762],
+    "grenade": {
+      "run": 13,
+      "recovery_jump": true,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Left Alley", "qx"],
+    "weapon": "weapon_molotov",
+    "position": [-931.55725097656, -90.063011169434, -160.22190856934],
+    "viewangles": [2.5696249008179, 135.45106506348],
+    "grenade": {
+      "run": 48,
+      "recovery_jump": true,
+      "recovery_yaw": -90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Left Alley", "qx"],
+    "description": "SAFE",
+    "weapon": "weapon_molotov",
+    "position": [-957.96148681641, 1035.0151367188, -160.38182067871],
+    "viewangles": [0.21121054887772, -136.77714538574],
+    "grenade": {
+      "run": 43,
+      "recovery_jump": true,
+      "recovery_yaw": 90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Left Alley", "2l"],
+    "description": "safe",
+    "weapon": "weapon_molotov",
+    "position": [-1026.6263427734, 848.01678466797, -150.93026733398],
+    "viewangles": [-11.827229499817, 69.741035461426],
+    "grenade": {
+      "run": 26,
+      "recovery_jump": true,
+      "recovery_yaw": -90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Middle", "dlyi"],
+    "weapon": "weapon_molotov",
+    "position": [60.779865264893, 728.69494628906, -161.00942993164],
+    "viewangles": [-0.63363587856293, 110.37951660156],
+    "grenade": {
+      "run": 22,
+      "recovery_jump": true,
+      "recovery_yaw": -90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Middle", "dlz"],
+    "weapon": "weapon_molotov",
+    "position": [-277.88336181641, 952.31500244141, -161.90516662598],
+    "viewangles": [-3.4672453403473, 61.222606658936],
+    "grenade": {
+      "run": 22,
+      "recovery_jump": true,
+      "recovery_yaw": 90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Middle", "ltjd"],
+    "weapon": "weapon_molotov",
+    "position": [-36.652530670166, 1252.3690185547, -159.96875],
+    "viewangles": [-30.659244537354, 88.809913635254]
+  },
+  {
+    "name": ["Middle", "ac"],
+    "weapon": "weapon_molotov",
+    "position": [-36.655681610107, 1252.3812255859, -159.96875],
+    "viewangles": [-28.881628036499, 99.897850036621]
+  },
+  {
+    "name": ["Middle", "dlz"],
+    "weapon": "weapon_molotov",
+    "position": [-36.630847930908, 1252.3640136719, -159.96875],
+    "viewangles": [-28.177669525146, 105.90749359131]
+  },
+  {
+    "name": ["Middle", "dlyi"],
+    "weapon": "weapon_molotov",
+    "position": [-36.634387969971, 1252.3718261719, -159.96875],
+    "viewangles": [-39.652713775635, 85.385711669922]
+  },
+  {
+    "name": ["Middle", "ltjd"],
+    "weapon": "weapon_hegrenade",
+    "position": [-37.717746734619, 1207.4322509766, -160.20721435547],
+    "viewangles": [-21.827236175537, 88.034629821777],
+    "grenade": {
+      "run": 1
+    }
+  },
+  {
+    "name": ["Middle", "dlz"],
+    "weapon": "weapon_hegrenade",
+    "position": [-37.730445861816, 1207.3901367188, -160.20790100098],
+    "viewangles": [-21.77440071106, 105.00105285645],
+    "grenade": {
+      "run": 3
+    }
+  },
+  {
+    "name": ["Middle", "dlyi"],
+    "weapon": "weapon_hegrenade",
+    "position": [-34.206981658936, 1217.1077880859, -159.97015380859],
+    "viewangles": [-55.636749267578, 85.781883239746],
+    "grenade": {
+      "run": 10
+    }
+  },
+  {
+    "name": ["Middle", "ac"],
+    "weapon": "weapon_hegrenade",
+    "position": [-43.028381347656, 1215.2462158203, -159.99031066895],
+    "viewangles": [-21.835931777954, 100.24382781982],
+    "grenade": {
+      "run": 1
+    }
+  },
+  {
+    "name": ["Left Alley", "lto"],
+    "weapon": "weapon_molotov",
+    "position": [-1001.3220825195, 946.27679443359, -162.71697998047],
+    "viewangles": [18.336101531982, -138.84796142578],
+    "grenade": {
+      "run": 9,
+      "recovery_jump": true,
+      "recovery_yaw": 90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Market", "gm"],
+    "weapon": "weapon_molotov",
+    "position": [975.97033691406, 208.32774353027, -151.96875],
+    "viewangles": [11.366556167603, 146.30116271973],
+    "grenade": {
+      "run": 20,
+      "recovery_jump": true,
+      "recovery_yaw": 90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Market", "ljt"],
+    "weapon": "weapon_molotov",
+    "position": [975.97143554688, 205.60882568359, -151.96875],
+    "viewangles": [3.6226496696472, 146.04682922363],
+    "grenade": {
+      "run": 12,
+      "recovery_jump": true,
+      "recovery_yaw": 90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Long Hall", "ljt"],
+    "weapon": "weapon_molotov",
+    "position": [815.96881103516, 488.30349731445, -151.96875],
+    "viewangles": [13.232260704041, -150.93586730957],
+    "grenade": {
+      "run": 9,
+      "recovery_jump": true,
+      "recovery_yaw": -90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Market", "gm"],
+    "weapon": "weapon_hegrenade",
+    "position": [975.97570800781, 208.32788085938, -151.96875],
+    "viewangles": [11.296264648438, 146.26762390137],
+    "grenade": {
+      "run": 14,
+      "recovery_jump": true,
+      "recovery_yaw": 90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Long Hall", "ljt"],
+    "weapon": "weapon_hegrenade",
+    "position": [815.88812255859, 488.2926940918, -151.96875],
+    "viewangles": [13.17947769165, -150.92538452148],
+    "grenade": {
+      "run": 14,
+      "recovery_jump": true,
+      "recovery_yaw": -90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Long Hall", "ac"],
+    "weapon": "weapon_molotov",
+    "position": [827.11004638672, 1699.1726074219, -20.180381774902],
+    "viewangles": [10.299337387085, 134.92295837402],
+    "grenade": {
+      "run": 23,
+      "recovery_jump": true,
+      "recovery_yaw": 90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Apartment", "ac"],
+    "weapon": "weapon_molotov",
+    "position": [-763.38275146484, 1773.6948242188, 0.03125],
+    "viewangles": [-21.353813171387, 49.680511474609],
+    "grenade": {
+      "run": 1,
+      "run_yaw": 180
+    }
+  },
+  {
+    "name": ["Long", "3l"],
+    "weapon": "weapon_molotov",
+    "position": [494.47003173828, 826.85076904297, -151.96875],
+    "viewangles": [-6.7519121170044, -179.67329406738],
+    "grenade": {
+      "run": 6,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Down", "dl"],
+    "weapon": "weapon_molotov",
+    "position": [-583.64294433594, 850.02954101563, -151.31665039063],
+    "viewangles": [-9.2101192474365, 118.39910888672],
+    "grenade": {
+      "run": 11,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Long", "ltjd"],
+    "weapon": "weapon_hegrenade",
+    "position": [826.23150634766, 1642.6612548828, -23.188982009888],
+    "viewangles": [-7.0497107505798, 128.86215209961],
+    "grenade": {
+      "run": 26
+    }
+  },
+  {
+    "name": ["1w", "ch"],
+    "weapon": "weapon_molotov",
+    "position": [7.6741056442261, -493.98544311523, -151.96875],
+    "viewangles": [-19.696559906006, 153.67443847656],
+    "grenade": {
+      "run": 7,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["Unnamed", "dl"],
+    "description": "DEEP",
+    "weapon": "weapon_hegrenade",
+    "position": [-548.89129638672, 1448.9024658203, -7.96875],
+    "viewangles": [0.73919951915741, 147.60047912598],
+    "grenade": {
+      "run": 21,
+      "recovery_jump": true,
+      "recovery_yaw": -150,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "dl"],
+    "weapon": "weapon_hegrenade",
+    "position": [-548.88195800781, 1448.8983154297, -7.96875],
+    "viewangles": [-17.545011520386, 147.38482666016],
+    "grenade": {
+      "run": 2
+    }
+  },
+  {
+    "name": ["Unnamed", "dl"],
+    "description": "BRIDGE",
+    "weapon": "weapon_molotov",
+    "position": [-548.88751220703, 1448.9000244141, -7.96875],
+    "viewangles": [0.73919951915741, 147.60047912598],
+    "grenade": {
+      "run": 21,
+      "recovery_jump": true,
+      "recovery_yaw": -150,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "dl"],
+    "weapon": "weapon_molotov",
+    "position": [-548.86798095703, 1448.8894042969, -7.96875],
+    "viewangles": [-17.545011520386, 147.38482666016],
+    "grenade": {
+      "run": 2
+    }
+  },
+  {
+    "name": ["Unnamed", "q"],
+    "description": "pre",
+    "weapon": "weapon_molotov",
+    "position": [-720.05310058594, 1734.4621582031, 8.0198593139648],
+    "viewangles": [8.9583616256714, -110.44262695313],
+    "grenade": {
+      "run": 21,
+      "recovery_jump": true,
+      "recovery_yaw": 90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "frush"],
+    "weapon": "weapon_hegrenade",
+    "position": [-651.46020507813, 1992.5418701172, 0.03125],
+    "viewangles": [16.673751831055, -108.33504486084],
+    "grenade": {
+      "run": 21,
+      "recovery_jump": true,
+      "recovery_yaw": 90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "m"],
+    "weapon": "weapon_molotov",
+    "position": [-495.04742431641, 848.16912841797, -151.09925842285],
+    "viewangles": [-33.523643493652, 135.22114562988],
+    "grenade": {
+      "run": 21
+    }
+  },
+  {
+    "name": ["Unnamed", "m"],
+    "weapon": "weapon_hegrenade",
+    "position": [-457.67288208008, 848.0908203125, -151.09664916992],
+    "viewangles": [-28.366800308228, 138.7453918457],
+    "grenade": {
+      "run": 21
+    }
+  },
+  {
+    "name": ["Unnamed", "qx"],
+    "description": "unsafe",
+    "weapon": "weapon_hegrenade",
+    "position": [-1092.275390625, 957.56304931641, -161.32275390625],
+    "viewangles": [10.403747558594, -75.710563659668],
+    "grenade": {
+      "run": 11,
+      "recovery_jump": true,
+      "run_yaw": -84,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "qx"],
+    "description": "unsafe",
+    "weapon": "weapon_molotov",
+    "position": [-1092.2758789063, 957.56488037109, -161.32275390625],
+    "viewangles": [10.403747558594, -75.710563659668],
+    "grenade": {
+      "run": 11,
+      "recovery_jump": true,
+      "run_yaw": -84,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "dl"],
+    "weapon": "weapon_hegrenade",
+    "position": [449.34240722656, 2045.2403564453, 0.03125],
+    "viewangles": [24.897520065308, -41.735706329346],
+    "grenade": {
+      "run": 28,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "dl"],
+    "weapon": "weapon_molotov",
+    "position": [449.34240722656, 2045.2403564453, 0.03125],
+    "viewangles": [24.897520065308, -41.735706329346],
+    "grenade": {
+      "run": 28,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "ltjd"],
+    "weapon": "weapon_smokegrenade",
+    "position": [510.54766845703, 1872.0970458984, 0.03125],
+    "viewangles": [1.951523065567, 145.36633300781],
+    "grenade": {
+      "run": 1
+    }
+  },
+  {
+    "name": ["Unnamed", "ltjd"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-540.37994384766, 1812.0306396484, 8.0300598144531],
+    "viewangles": [-11.138459205627, 49.850471496582]
+  },
+  {
+    "name": ["Unnamed", "ltjd"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-691.39508056641, 1845.8433837891, 7.7936210632324],
+    "viewangles": [-11.952449798584, 42.28247833252]
+  },
+  {
+    "name": ["Unnamed", "2l"],
+    "weapon": "weapon_smokegrenade",
+    "position": [93.102119445801, 2489.2475585938, -19.894420623779],
+    "viewangles": [-14.658476829529, -141.1755065918]
+  },
+  {
+    "name": ["Unnamed", "m"],
+    "weapon": "weapon_smokegrenade",
+    "position": [87.995384216309, 2495.8015136719, -21.415576934814],
+    "viewangles": [-25.680452346802, -141.94549560547],
+    "grenade": {
+      "run": 20
+    }
+  },
+  {
+    "name": ["Unnamed", "ljt"],
+    "weapon": "weapon_molotov",
+    "position": [102.49960327148, -494.67672729492, -151.96875],
+    "viewangles": [-14.388000488281, 161.1475982666]
+  },
+  {
+    "name": ["Unnamed", "dlz"],
+    "weapon": "weapon_molotov",
+    "position": [92.735748291016, 612.62445068359, -150.96875],
+    "viewangles": [-22.050596237183, 107.56979370117],
+    "grenade": {
+      "run": 20,
+      "recovery_yaw": -90
+    }
+  },
+  {
+    "name": ["Unnamed", "m"],
+    "description": "inside, unsafe",
+    "weapon": "weapon_molotov",
+    "position": [-1037.1658935547, 848.08892822266, -150.93321228027],
+    "viewangles": [-8.3072299957275, 61.312725067139],
+    "grenade": {
+      "strength": 0.5,
+      "recovery_yaw": -90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "dl"],
+    "weapon": "weapon_molotov",
+    "position": [-1408.7552490234, 215.08065795898, -159.96875],
+    "viewangles": [-4.092001914978, 65.58805847168],
+    "grenade": {
+      "run": 16,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "dl"],
+    "description": "safe",
+    "weapon": "weapon_molotov",
+    "position": [-1425.0771484375, 151.22444152832, -151.53678894043],
+    "viewangles": [-19.249923706055, 66.800712585449],
+    "grenade": {
+      "run": 20,
+      "delay": 10,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "m"],
+    "description": "under",
+    "weapon": "weapon_molotov",
+    "position": [-1381.9575195313, 167.00827026367, -151.96875],
+    "viewangles": [-34.594917297363, 63.135818481445],
+    "grenade": {
+      "run": 11,
+      "delay": 18,
+      "recovery_yaw": -90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "3l"],
+    "weapon": "weapon_molotov",
+    "position": [-592.00640869141, 2104.0500488281, 8.03125],
+    "viewangles": [-26.222011566162, -112.32051086426],
+    "grenade": {
+      "run": 8,
+      "run_speed": true
+    }
+  },
+  {
+    "name": ["Unnamed", "2l"],
+    "weapon": "weapon_molotov",
+    "position": [-654.39501953125, 1944.4544677734, 0.03125],
+    "viewangles": [7.9880003929138, -77.751098632813],
+    "grenade": {
+      "run": 15,
+      "recovery_yaw": 90,
+      "run_yaw": -90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "2l"],
+    "weapon": "weapon_hegrenade",
+    "position": [-693.08404541016, 1978.7355957031, 0.03125],
+    "viewangles": [-4.8819313049316, -94.862236022949],
+    "grenade": {
+      "run": 13,
+      "recovery_jump": true,
+      "recovery_yaw": 90
+    }
+  },
+  {
+    "name": ["Unnamed", "q"],
+    "weapon": "weapon_hegrenade",
+    "position": [-616.19262695313, 1990.6945800781, 0.03125],
+    "viewangles": [1.2779821157455, -123.29339599609],
+    "grenade": {
+      "run": 10
+    }
+  },
+  {
+    "name": ["Unnamed", "q"],
+    "weapon": "weapon_molotov",
+    "position": [-619.03869628906, 1954.7900390625, 0.03125],
+    "viewangles": [-6.0920252799988, -132.94300842285],
+    "grenade": {
+      "run": 4
+    }
+  },
+  {
+    "name": ["Unnamed", "m"],
+    "weapon": "weapon_molotov",
+    "position": [-619.05358886719, 1954.7299804688, 0.03125],
+    "viewangles": [-7.4119415283203, -139.54315185547],
+    "grenade": {
+      "run": 7
+    }
+  },
+  {
+    "name": ["Unnamed", "dlz"],
+    "weapon": "weapon_molotov",
+    "position": [-3.4604063034058, 2543.98828125, -47.968753814697],
+    "viewangles": [-10.711953163147, -89.572380065918],
+    "grenade": {
+      "run": 7
+    }
+  },
+  {
+    "name": ["Unnamed", "3l"],
+    "weapon": "weapon_molotov",
+    "position": [265.31353759766, 674.50109863281, -151.96875],
+    "viewangles": [-21.491893768311, 149.33085632324],
+    "grenade": {
+      "run": 52,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "ljt"],
+    "weapon": "weapon_hegrenade",
+    "position": [190.6690826416, 711.552734375, -160.20309448242],
+    "viewangles": [-14.341740608215, -26.392217636108],
+    "grenade": {
+      "run": 6
+    }
+  },
+  {
+    "name": ["Unnamed", "ch"],
+    "weapon": "weapon_hegrenade",
+    "position": [26.77626991272, -400.07312011719, -151.96875],
+    "viewangles": [-14.121717453003, -135.40403747559],
+    "grenade": {
+      "run": 11,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "ljt"],
+    "weapon": "weapon_hegrenade",
+    "position": [1.3698757886887, -400.02307128906, -151.96875],
+    "viewangles": [1.3881270885468, -132.26620483398],
+    "grenade": {
+      "run": 10,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "ch"],
+    "weapon": "weapon_molotov",
+    "position": [23.871562957764, -400.01290893555, -151.96875],
+    "viewangles": [-17.971851348877, -135.18801879883],
+    "grenade": {
+      "run": 5,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "ljt"],
+    "weapon": "weapon_molotov",
+    "position": [-64.525466918945, -493.94424438477, -151.96875],
+    "viewangles": [0.55990314483643, 125.08430480957],
+    "grenade": {
+      "run": 12,
+      "recovery_jump": true,
+      "recovery_yaw": 179,
+      "run_yaw": 90
+    }
+  },
+  {
+    "name": ["Unnamed", "lto"],
+    "weapon": "weapon_molotov",
+    "position": [-752.63372802734, 1361.0491943359, 0.03125],
+    "viewangles": [-12.546515464783, 64.590309143066],
+    "grenade": {
+      "fov": 5.12,
+      "run": 16
+    }
+  }
+],
+"cs_militia":[
+  {
+    "name": ["push", "xsd"],
+    "weapon": "weapon_molotov",
+    "position": [583.44348144531, 762.51550292969, 232.58489990234],
+    "viewangles": [2.19991255, -15.5679474]
+  },
+  {
+    "name": ["Here", "wd"],
+    "weapon": "weapon_molotov",
+    "position": [962.61956787109, -646.39038085938, -157.14129638672],
+    "viewangles": [-20.448108673096, 103.52923583984],
+    "grenade": {
+      "run": 27,
+      "recovery_jump": true,
+      "delay": 7,
+      "recovery_yaw": -147,
+      "run_yaw": 57,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Here", "wdy"],
+    "weapon": "weapon_molotov",
+    "position": [1921.9677734375, 373.5712890625, -275.99472045898],
+    "viewangles": [-38.623031616211, 152.30601501465],
+    "grenade": {
+      "run": 2,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Here", "wd"],
+    "weapon": "weapon_molotov",
+    "position": [1921.9807128906, 367.80526733398, -275.98739624023],
+    "viewangles": [-41.952281951904, 158.38095092773],
+    "grenade": {
+      "run": 2,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "xsd"],
+    "weapon": "weapon_molotov",
+    "position": [448.22769165039, 853.19482421875, 179.60260009766],
+    "viewangles": [4.730152130127, -17.758903503418],
+    "grenade": {
+      "run": 4
+    }
+  },
+  {
+    "name": ["Unnamed", "xsd"],
+    "weapon": "weapon_hegrenade",
+    "position": [467.55456542969, 916.408203125, 160.03898620605],
+    "viewangles": [10.23038482666, -19.599050521851],
+    "grenade": {
+      "run": 30
+    }
+  },
+  {
+    "name": ["Unnamed", "gdd"],
+    "weapon": "weapon_molotov",
+    "position": [724.16943359375, 823.32415771484, 196.74617004395],
+    "viewangles": [0.099951893091202, -91.91805267334],
+    "grenade": {
+      "run": 1,
+      "run_speed": true
+    }
+  },
+  {
+    "name": ["Unnamed", "wd"],
+    "description": "unsafe",
+    "weapon": "weapon_molotov",
+    "position": [773.91162109375, -702.42926025391, -159.96875],
+    "viewangles": [-33.010314941406, 100.86351013184],
+    "grenade": {
+      "run": 37,
+      "recovery_jump": true,
+      "recovery_yaw": -90
+    }
+  },
+  {
+    "name": ["Unnamed", "wd"],
+    "description": "unsafe",
+    "weapon": "weapon_molotov",
+    "position": [725.27172851563, -687.33142089844, -155.52227783203],
+    "viewangles": [-35.650508880615, 94.10530090332],
+    "grenade": {
+      "run": 34,
+      "recovery_jump": true,
+      "recovery_yaw": -90
+    }
+  },
+  {
+    "name": ["Unnamed", "gdd"],
+    "weapon": "weapon_molotov",
+    "position": [590.46893310547, 694.11389160156, 275.2106628418],
+    "viewangles": [5.1593737602234, -83.923751831055],
+    "duck": true
+  },
+  {
+    "name": ["Unnamed", "gdd"],
+    "weapon": "weapon_molotov",
+    "position": [42.727394104004, 834.21704101563, 190.49305725098],
+    "viewangles": [-5.8407073020935, -61.593048095703],
+    "grenade": {
+      "run": 1
+    }
+  },
+  {
+    "name": ["Unnamed", "wd"],
+    "description": "unsafe",
+    "weapon": "weapon_hegrenade",
+    "position": [777.40374755859, -766.34057617188, -159.87359619141],
+    "viewangles": [-39.173370361328, 99.780014038086],
+    "grenade": {
+      "run": 63,
+      "recovery_jump": true,
+      "recovery_yaw": -90
+    }
+  },
+  {
+    "name": ["Unnamed", "wd"],
+    "description": "unsafe",
+    "weapon": "weapon_molotov",
+    "position": [84.006385803223, -984.43676757813, -149.96875],
+    "viewangles": [-44.123413085938, 79.434066772461],
+    "grenade": {
+      "run": 31
+    }
+  },
+  {
+    "name": ["Unnamed", "wdy"],
+    "description": "full unsafe",
+    "weapon": "weapon_molotov",
+    "position": [88.04280090332, -865.51879882813, -119.96875],
+    "viewangles": [-39.833400726318, 76.13436126709],
+    "grenade": {
+      "run": 14
+    }
+  }
+],
+"de_safehouse":[
+  {
+    "name": ["rock ctrl", "st"],
+    "weapon": "weapon_hegrenade",
+    "position": [1992.9935302734, 188.69172668457, 440.03125],
+    "viewangles": [-1.2027406692505, -175.46788024902],
+    "duck": true
+  },
+  {
+    "name": ["room ctrl", "m"],
+    "weapon": "weapon_molotov",
+    "position": [979.80480957031, 127.64083099365, 261.83966064453],
+    "viewangles": [-25.355745315552, 3.355304479599],
+    "duck": true
+  },
+  {
+    "name": ["room ctrl", "m"],
+    "weapon": "weapon_hegrenade",
+    "position": [975.31665039063, 126.67095947266, 261.55950927734],
+    "viewangles": [-28.255744934082, 3.355304479599],
+    "grenade": {
+      "run": 17
+    },
+    "duck": true
+  },
+  {
+    "name": ["Unnamed", "st"],
+    "weapon": "weapon_molotov",
+    "position": [1985.4388427734, 188.72956848145, 440.03125],
+    "viewangles": [8.0026686191559e-005, -175.5726776123],
+    "duck": true
+  },
+  {
+    "name": ["Garage", "wd"],
+    "weapon": "weapon_molotov",
+    "position": [1815.9953613281, -465.95617675781, 399.58435058594],
+    "viewangles": [-35.904041290283, 53.529426574707],
+    "grenade": {
+      "recovery_yaw": 141
+    },
+    "duck": true
+  },
+  {
+    "name": ["rock ctrl", "st"],
+    "weapon": "weapon_molotov",
+    "position": [1992.9808349609, 188.67596435547, 440.03128051758],
+    "viewangles": [1.120274066925, -179.26788330078],
+    "duck": true
+  },
+  {
+    "name": ["Unnamed", "st"],
+    "weapon": "weapon_hegrenade",
+    "position": [1985.3149414063, 188.72596740723, 440.03125],
+    "viewangles": [-4.1249256134033, -175.51672363281],
+    "grenade": {
+      "run": 6,
+      "run_yaw": 180
+    },
+    "duck": true
+  },
+  {
+    "name": ["Unnamed", "st"],
+    "weapon": "weapon_molotov",
+    "position": [2314.96875, 67.790939331055, 685.06610107422],
+    "viewangles": [-1.6500253677368, 179.23896789551]
+  },
+  {
+    "name": ["Unnamed", "m"],
+    "weapon": "weapon_molotov",
+    "position": [983.33526611328, 126.18775177002, 261.31927490234],
+    "viewangles": [-30.250047683716, 2.105521440506],
+    "duck": true
+  },
+  {
+    "name": ["Garage", "bd"],
+    "weapon": "weapon_molotov",
+    "position": [1334.4173583984, -463.94735717773, 238.48187255859],
+    "viewangles": [-34.188041687012, 63.764450073242],
+    "grenade": {
+      "run": 27,
+      "recovery_yaw": -90
+    }
+  },
+  {
+    "name": ["Garage", "bd"],
+    "weapon": "weapon_hegrenade",
+    "position": [1322.1436767578, -455.84741210938, 238.22271728516],
+    "viewangles": [-33.151786804199, 60.633800506592],
+    "grenade": {
+      "run": 24,
+      "recovery_yaw": -90
+    }
+  },
+  {
+    "name": ["Stone", "m"],
+    "description": "UNSAFE",
+    "weapon": "weapon_hegrenade",
+    "position": [1002.2131958008, 95.531028747559, 252.46270751953],
+    "viewangles": [3.9599614143372, 4.8317604064941],
+    "grenade": {
+      "recovery_yaw": 0,
+      "jump": true
+    },
+    "duck": true
+  },
+  {
+    "name": ["Stone", "m"],
+    "description": "unsafe",
+    "weapon": "weapon_molotov",
+    "position": [1002.2233886719, 95.34546661377, 252.44903564453],
+    "viewangles": [0.92396545410156, 5.6239008903503],
+    "grenade": {
+      "run": 1,
+      "recovery_yaw": 0,
+      "jump": true
+    },
+    "duck": true
+  },
+  {
+    "name": ["room", "m"],
+    "weapon": "weapon_molotov",
+    "position": [1318.2897949219, -570.79565429688, 254.57305908203],
+    "viewangles": [-24.85001, 46.5257721]
+  },
+  {
+    "name": ["room", "m"],
+    "weapon": "weapon_hegrenade",
+    "position": [1325.0466308594, -563.40539550781, 251.95834350586],
+    "viewangles": [-25.914768218994, 47.427711486816]
+  },
+  {
+    "name": ["room", "m"],
+    "weapon": "weapon_molotov",
+    "position": [1342.470703125, -569.57421875, 250.80834960938],
+    "viewangles": [-26.005033493042, 47.121997833252]
+  },
+  {
+    "name": ["Unnamed", "st"],
+    "weapon": "weapon_molotov",
+    "position": [2318.4736328125, -22.437808990479, 681.54956054688],
+    "viewangles": [-2.3109972476959, 173.57550048828]
+  },
+  {
+    "name": ["Unnamed", "st"],
+    "weapon": "weapon_molotov",
+    "position": [2312.8020019531, 479.16897583008, 687.23358154297],
+    "viewangles": [-0.59717881679535, -163.41616821289]
+  },
+  {
+    "name": ["Unnamed", "m"],
+    "weapon": "weapon_hegrenade",
+    "position": [976.79077148438, 130.1416015625, 262.56219482422],
+    "viewangles": [-24.365041732788, 2.0497560501099],
+    "grenade": {
+      "run": 5
+    },
+    "duck": true
+  }
+]
+
+
+
+}
+}
