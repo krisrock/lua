@@ -1,4 +1,4 @@
-local text = "0"
+local text = "链接服务器成功"
 
 client.color_log(255, 255, 0, text)
 --client.color_log(255, 0, 255, text)
