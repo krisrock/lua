@@ -1,6 +1,6 @@
 --@Ref 
 local vector = require "vector"
---local anti_aim = require 'gamesense/antiaim_funcs'
+local anti_aim = require 'gamesense/antiaim_funcs'
 local function contains(b,c)for d,e in pairs(b)do if e==c then return true end end;return false end
 local function round(num, decimals) local mult = 10^(decimals or 0) return math.floor(num * mult + 0.5) / mult end
 local ui_new_checkbox, ui_new_slider, ui_new_combobox, ui_new_multiselect, ui_new_hotkey, ui_new_button, ui_new_color_picker, ui_reference, ui_set, ui_get, ui_set_callback, ui_set_visible, math_random, me, ui_new_label, color_log, ui_new_textbox, renderer_triangle = ui.new_checkbox, ui.new_slider, ui.new_combobox, ui.new_multiselect, ui.new_hotkey, ui.new_button, ui.new_color_picker, ui.reference, ui.set, ui.get, ui.set_callback, ui.set_visible, math.random, entity.get_local_player, ui.new_label, client.color_log, ui.new_textbox, renderer.triangle
